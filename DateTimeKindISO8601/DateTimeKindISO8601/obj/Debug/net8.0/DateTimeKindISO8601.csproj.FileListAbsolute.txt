@@ -1,0 +1,14 @@
+D:\CSharpCourse\DateTimeKindISO8601\DateTimeKindISO8601\bin\Debug\net8.0\DateTimeKindISO8601.exe
+D:\CSharpCourse\DateTimeKindISO8601\DateTimeKindISO8601\bin\Debug\net8.0\DateTimeKindISO8601.deps.json
+D:\CSharpCourse\DateTimeKindISO8601\DateTimeKindISO8601\bin\Debug\net8.0\DateTimeKindISO8601.runtimeconfig.json
+D:\CSharpCourse\DateTimeKindISO8601\DateTimeKindISO8601\bin\Debug\net8.0\DateTimeKindISO8601.dll
+D:\CSharpCourse\DateTimeKindISO8601\DateTimeKindISO8601\bin\Debug\net8.0\DateTimeKindISO8601.pdb
+D:\CSharpCourse\DateTimeKindISO8601\DateTimeKindISO8601\obj\Debug\net8.0\DateTimeKindISO8601.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\DateTimeKindISO8601\DateTimeKindISO8601\obj\Debug\net8.0\DateTimeKindISO8601.AssemblyInfoInputs.cache
+D:\CSharpCourse\DateTimeKindISO8601\DateTimeKindISO8601\obj\Debug\net8.0\DateTimeKindISO8601.AssemblyInfo.cs
+D:\CSharpCourse\DateTimeKindISO8601\DateTimeKindISO8601\obj\Debug\net8.0\DateTimeKindISO8601.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\DateTimeKindISO8601\DateTimeKindISO8601\obj\Debug\net8.0\DateTimeKindISO8601.dll
+D:\CSharpCourse\DateTimeKindISO8601\DateTimeKindISO8601\obj\Debug\net8.0\refint\DateTimeKindISO8601.dll
+D:\CSharpCourse\DateTimeKindISO8601\DateTimeKindISO8601\obj\Debug\net8.0\DateTimeKindISO8601.pdb
+D:\CSharpCourse\DateTimeKindISO8601\DateTimeKindISO8601\obj\Debug\net8.0\DateTimeKindISO8601.genruntimeconfig.cache
+D:\CSharpCourse\DateTimeKindISO8601\DateTimeKindISO8601\obj\Debug\net8.0\ref\DateTimeKindISO8601.dll

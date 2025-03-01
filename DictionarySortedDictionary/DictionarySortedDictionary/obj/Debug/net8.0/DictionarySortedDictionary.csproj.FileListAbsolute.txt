@@ -1,0 +1,14 @@
+D:\CSharpCourse\DictionarySortedDictionary\DictionarySortedDictionary\bin\Debug\net8.0\DictionarySortedDictionary.exe
+D:\CSharpCourse\DictionarySortedDictionary\DictionarySortedDictionary\bin\Debug\net8.0\DictionarySortedDictionary.deps.json
+D:\CSharpCourse\DictionarySortedDictionary\DictionarySortedDictionary\bin\Debug\net8.0\DictionarySortedDictionary.runtimeconfig.json
+D:\CSharpCourse\DictionarySortedDictionary\DictionarySortedDictionary\bin\Debug\net8.0\DictionarySortedDictionary.dll
+D:\CSharpCourse\DictionarySortedDictionary\DictionarySortedDictionary\bin\Debug\net8.0\DictionarySortedDictionary.pdb
+D:\CSharpCourse\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net8.0\DictionarySortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net8.0\DictionarySortedDictionary.AssemblyInfoInputs.cache
+D:\CSharpCourse\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net8.0\DictionarySortedDictionary.AssemblyInfo.cs
+D:\CSharpCourse\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net8.0\DictionarySortedDictionary.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net8.0\DictionarySortedDictionary.dll
+D:\CSharpCourse\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net8.0\refint\DictionarySortedDictionary.dll
+D:\CSharpCourse\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net8.0\DictionarySortedDictionary.pdb
+D:\CSharpCourse\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net8.0\DictionarySortedDictionary.genruntimeconfig.cache
+D:\CSharpCourse\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net8.0\ref\DictionarySortedDictionary.dll

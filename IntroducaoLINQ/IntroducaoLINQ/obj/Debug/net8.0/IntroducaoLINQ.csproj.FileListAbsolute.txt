@@ -1,0 +1,14 @@
+D:\CSharpCourse\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\net8.0\IntroducaoLINQ.exe
+D:\CSharpCourse\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\net8.0\IntroducaoLINQ.deps.json
+D:\CSharpCourse\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\net8.0\IntroducaoLINQ.runtimeconfig.json
+D:\CSharpCourse\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\net8.0\IntroducaoLINQ.dll
+D:\CSharpCourse\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\net8.0\IntroducaoLINQ.pdb
+D:\CSharpCourse\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\net8.0\IntroducaoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\net8.0\IntroducaoLINQ.AssemblyInfoInputs.cache
+D:\CSharpCourse\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\net8.0\IntroducaoLINQ.AssemblyInfo.cs
+D:\CSharpCourse\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\net8.0\IntroducaoLINQ.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\net8.0\IntroducaoLINQ.dll
+D:\CSharpCourse\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\net8.0\refint\IntroducaoLINQ.dll
+D:\CSharpCourse\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\net8.0\IntroducaoLINQ.pdb
+D:\CSharpCourse\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\net8.0\IntroducaoLINQ.genruntimeconfig.cache
+D:\CSharpCourse\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\net8.0\ref\IntroducaoLINQ.dll

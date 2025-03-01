@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCourse\\MulticastDelegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACB4FEB-2681-4CC6-B881-EA69DE805F3E}|MulticastDelegate\\MulticastDelegate.csproj|d:\\csharpcourse\\multicastdelegate\\multicastdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACB4FEB-2681-4CC6-B881-EA69DE805F3E}|MulticastDelegate\\MulticastDelegate.csproj|solutionrelative:multicastdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACB4FEB-2681-4CC6-B881-EA69DE805F3E}|MulticastDelegate\\MulticastDelegate.csproj|d:\\csharpcourse\\multicastdelegate\\multicastdelegate\\services\\calculationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACB4FEB-2681-4CC6-B881-EA69DE805F3E}|MulticastDelegate\\MulticastDelegate.csproj|solutionrelative:multicastdelegate\\services\\calculationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationServices.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\MulticastDelegate\\MulticastDelegate\\Services\\CalculationServices.cs",
+              "RelativeDocumentMoniker": "MulticastDelegate\\Services\\CalculationServices.cs",
+              "ToolTip": "D:\\CSharpCourse\\MulticastDelegate\\MulticastDelegate\\Services\\CalculationServices.cs",
+              "RelativeToolTip": "MulticastDelegate\\Services\\CalculationServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:03:23.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\MulticastDelegate\\MulticastDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "MulticastDelegate\\Program.cs",
+              "ToolTip": "D:\\CSharpCourse\\MulticastDelegate\\MulticastDelegate\\Program.cs*",
+              "RelativeToolTip": "MulticastDelegate\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:01:06.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

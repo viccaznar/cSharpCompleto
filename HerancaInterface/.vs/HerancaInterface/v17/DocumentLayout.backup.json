@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCourse\\HerancaInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3709B53D-BBEA-4DAF-9B43-BFE361E48B15}|HerancaInterface\\HerancaInterface.csproj|d:\\csharpcourse\\herancainterface\\herancainterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3709B53D-BBEA-4DAF-9B43-BFE361E48B15}|HerancaInterface\\HerancaInterface.csproj|solutionrelative:herancainterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3709B53D-BBEA-4DAF-9B43-BFE361E48B15}|HerancaInterface\\HerancaInterface.csproj|d:\\csharpcourse\\herancainterface\\herancainterface\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3709B53D-BBEA-4DAF-9B43-BFE361E48B15}|HerancaInterface\\HerancaInterface.csproj|solutionrelative:herancainterface\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3709B53D-BBEA-4DAF-9B43-BFE361E48B15}|HerancaInterface\\HerancaInterface.csproj|d:\\csharpcourse\\herancainterface\\herancainterface\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3709B53D-BBEA-4DAF-9B43-BFE361E48B15}|HerancaInterface\\HerancaInterface.csproj|solutionrelative:herancainterface\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3709B53D-BBEA-4DAF-9B43-BFE361E48B15}|HerancaInterface\\HerancaInterface.csproj|d:\\csharpcourse\\herancainterface\\herancainterface\\entities\\abstractshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3709B53D-BBEA-4DAF-9B43-BFE361E48B15}|HerancaInterface\\HerancaInterface.csproj|solutionrelative:herancainterface\\entities\\abstractshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3709B53D-BBEA-4DAF-9B43-BFE361E48B15}|HerancaInterface\\HerancaInterface.csproj|d:\\csharpcourse\\herancainterface\\herancainterface\\entities\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3709B53D-BBEA-4DAF-9B43-BFE361E48B15}|HerancaInterface\\HerancaInterface.csproj|solutionrelative:herancainterface\\entities\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3709B53D-BBEA-4DAF-9B43-BFE361E48B15}|HerancaInterface\\HerancaInterface.csproj|d:\\csharpcourse\\herancainterface\\herancainterface\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3709B53D-BBEA-4DAF-9B43-BFE361E48B15}|HerancaInterface\\HerancaInterface.csproj|solutionrelative:herancainterface\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3709B53D-BBEA-4DAF-9B43-BFE361E48B15}|HerancaInterface\\HerancaInterface.csproj|d:\\csharpcourse\\herancainterface\\herancainterface\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3709B53D-BBEA-4DAF-9B43-BFE361E48B15}|HerancaInterface\\HerancaInterface.csproj|solutionrelative:herancainterface\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbstractShape.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\HerancaInterface\\HerancaInterface\\Entities\\AbstractShape.cs",
+              "RelativeDocumentMoniker": "HerancaInterface\\Entities\\AbstractShape.cs",
+              "ToolTip": "D:\\CSharpCourse\\HerancaInterface\\HerancaInterface\\Entities\\AbstractShape.cs*",
+              "RelativeToolTip": "HerancaInterface\\Entities\\AbstractShape.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:28:34.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\HerancaInterface\\HerancaInterface\\Entities\\IShape.cs",
+              "RelativeDocumentMoniker": "HerancaInterface\\Entities\\IShape.cs",
+              "ToolTip": "D:\\CSharpCourse\\HerancaInterface\\HerancaInterface\\Entities\\IShape.cs",
+              "RelativeToolTip": "HerancaInterface\\Entities\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:20:51.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Color.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\HerancaInterface\\HerancaInterface\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "HerancaInterface\\Enums\\Color.cs",
+              "ToolTip": "D:\\CSharpCourse\\HerancaInterface\\HerancaInterface\\Enums\\Color.cs",
+              "RelativeToolTip": "HerancaInterface\\Enums\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:31:09.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\HerancaInterface\\HerancaInterface\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "HerancaInterface\\Entities\\Shape.cs",
+              "ToolTip": "D:\\CSharpCourse\\HerancaInterface\\HerancaInterface\\Entities\\Shape.cs",
+              "RelativeToolTip": "HerancaInterface\\Entities\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:30:27.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\HerancaInterface\\HerancaInterface\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "HerancaInterface\\Entities\\Rectangle.cs",
+              "ToolTip": "D:\\CSharpCourse\\HerancaInterface\\HerancaInterface\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "HerancaInterface\\Entities\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:30:15.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\HerancaInterface\\HerancaInterface\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "HerancaInterface\\Entities\\Circle.cs",
+              "ToolTip": "D:\\CSharpCourse\\HerancaInterface\\HerancaInterface\\Entities\\Circle.cs",
+              "RelativeToolTip": "HerancaInterface\\Entities\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:30:01.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\HerancaInterface\\HerancaInterface\\Program.cs",
+              "RelativeDocumentMoniker": "HerancaInterface\\Program.cs",
+              "ToolTip": "D:\\CSharpCourse\\HerancaInterface\\HerancaInterface\\Program.cs*",
+              "RelativeToolTip": "HerancaInterface\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:26:14.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

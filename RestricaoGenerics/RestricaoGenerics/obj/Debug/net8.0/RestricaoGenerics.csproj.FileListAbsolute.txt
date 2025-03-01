@@ -1,0 +1,14 @@
+D:\CSharpCourse\RestricaoGenerics\RestricaoGenerics\bin\Debug\net8.0\RestricaoGenerics.exe
+D:\CSharpCourse\RestricaoGenerics\RestricaoGenerics\bin\Debug\net8.0\RestricaoGenerics.deps.json
+D:\CSharpCourse\RestricaoGenerics\RestricaoGenerics\bin\Debug\net8.0\RestricaoGenerics.runtimeconfig.json
+D:\CSharpCourse\RestricaoGenerics\RestricaoGenerics\bin\Debug\net8.0\RestricaoGenerics.dll
+D:\CSharpCourse\RestricaoGenerics\RestricaoGenerics\bin\Debug\net8.0\RestricaoGenerics.pdb
+D:\CSharpCourse\RestricaoGenerics\RestricaoGenerics\obj\Debug\net8.0\RestricaoGenerics.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\RestricaoGenerics\RestricaoGenerics\obj\Debug\net8.0\RestricaoGenerics.AssemblyInfoInputs.cache
+D:\CSharpCourse\RestricaoGenerics\RestricaoGenerics\obj\Debug\net8.0\RestricaoGenerics.AssemblyInfo.cs
+D:\CSharpCourse\RestricaoGenerics\RestricaoGenerics\obj\Debug\net8.0\RestricaoGenerics.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\RestricaoGenerics\RestricaoGenerics\obj\Debug\net8.0\RestricaoGenerics.dll
+D:\CSharpCourse\RestricaoGenerics\RestricaoGenerics\obj\Debug\net8.0\refint\RestricaoGenerics.dll
+D:\CSharpCourse\RestricaoGenerics\RestricaoGenerics\obj\Debug\net8.0\RestricaoGenerics.pdb
+D:\CSharpCourse\RestricaoGenerics\RestricaoGenerics\obj\Debug\net8.0\RestricaoGenerics.genruntimeconfig.cache
+D:\CSharpCourse\RestricaoGenerics\RestricaoGenerics\obj\Debug\net8.0\ref\RestricaoGenerics.dll

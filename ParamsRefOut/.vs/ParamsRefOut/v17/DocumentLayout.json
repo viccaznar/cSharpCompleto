@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCourse\\ParamsRefOut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D50676D4-7097-4CE2-A3A8-EEB86DB05C11}|ParamsRefOut\\ParamsRefOut.csproj|d:\\csharpcourse\\paramsrefout\\paramsrefout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50676D4-7097-4CE2-A3A8-EEB86DB05C11}|ParamsRefOut\\ParamsRefOut.csproj|solutionrelative:paramsrefout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50676D4-7097-4CE2-A3A8-EEB86DB05C11}|ParamsRefOut\\ParamsRefOut.csproj|d:\\csharpcourse\\paramsrefout\\paramsrefout\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50676D4-7097-4CE2-A3A8-EEB86DB05C11}|ParamsRefOut\\ParamsRefOut.csproj|solutionrelative:paramsrefout\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\ParamsRefOut\\ParamsRefOut\\Calculator.cs",
+              "RelativeDocumentMoniker": "ParamsRefOut\\Calculator.cs",
+              "ToolTip": "D:\\CSharpCourse\\ParamsRefOut\\ParamsRefOut\\Calculator.cs",
+              "RelativeToolTip": "ParamsRefOut\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:10:27.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\ParamsRefOut\\ParamsRefOut\\Program.cs",
+              "RelativeDocumentMoniker": "ParamsRefOut\\Program.cs",
+              "ToolTip": "D:\\CSharpCourse\\ParamsRefOut\\ParamsRefOut\\Program.cs",
+              "RelativeToolTip": "ParamsRefOut\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:09:20.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

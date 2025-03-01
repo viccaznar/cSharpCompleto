@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCourse\\ExercicioEmpresa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3716AB2E-B131-48F4-9180-1062FEB1C6FD}|ExercicioEmpresa\\ExercicioEmpresa.csproj|d:\\csharpcourse\\exercicioempresa\\exercicioempresa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3716AB2E-B131-48F4-9180-1062FEB1C6FD}|ExercicioEmpresa\\ExercicioEmpresa.csproj|solutionrelative:exercicioempresa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3716AB2E-B131-48F4-9180-1062FEB1C6FD}|ExercicioEmpresa\\ExercicioEmpresa.csproj|d:\\csharpcourse\\exercicioempresa\\exercicioempresa\\entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3716AB2E-B131-48F4-9180-1062FEB1C6FD}|ExercicioEmpresa\\ExercicioEmpresa.csproj|solutionrelative:exercicioempresa\\entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3716AB2E-B131-48F4-9180-1062FEB1C6FD}|ExercicioEmpresa\\ExercicioEmpresa.csproj|d:\\csharpcourse\\exercicioempresa\\exercicioempresa\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3716AB2E-B131-48F4-9180-1062FEB1C6FD}|ExercicioEmpresa\\ExercicioEmpresa.csproj|solutionrelative:exercicioempresa\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutSourcedEmployee.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\ExercicioEmpresa\\ExercicioEmpresa\\Entities\\OutSourcedEmployee.cs",
+              "RelativeDocumentMoniker": "ExercicioEmpresa\\Entities\\OutSourcedEmployee.cs",
+              "ToolTip": "D:\\CSharpCourse\\ExercicioEmpresa\\ExercicioEmpresa\\Entities\\OutSourcedEmployee.cs",
+              "RelativeToolTip": "ExercicioEmpresa\\Entities\\OutSourcedEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T00:16:46.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\ExercicioEmpresa\\ExercicioEmpresa\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "ExercicioEmpresa\\Entities\\Employee.cs",
+              "ToolTip": "D:\\CSharpCourse\\ExercicioEmpresa\\ExercicioEmpresa\\Entities\\Employee.cs",
+              "RelativeToolTip": "ExercicioEmpresa\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T00:12:52.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\ExercicioEmpresa\\ExercicioEmpresa\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioEmpresa\\Program.cs",
+              "ToolTip": "D:\\CSharpCourse\\ExercicioEmpresa\\ExercicioEmpresa\\Program.cs",
+              "RelativeToolTip": "ExercicioEmpresa\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T00:06:36.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

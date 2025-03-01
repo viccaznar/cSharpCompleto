@@ -1,0 +1,14 @@
+D:\CSharpCourse\ParamsRefOut\ParamsRefOut\bin\Debug\net8.0\ParamsRefOut.exe
+D:\CSharpCourse\ParamsRefOut\ParamsRefOut\bin\Debug\net8.0\ParamsRefOut.deps.json
+D:\CSharpCourse\ParamsRefOut\ParamsRefOut\bin\Debug\net8.0\ParamsRefOut.runtimeconfig.json
+D:\CSharpCourse\ParamsRefOut\ParamsRefOut\bin\Debug\net8.0\ParamsRefOut.dll
+D:\CSharpCourse\ParamsRefOut\ParamsRefOut\bin\Debug\net8.0\ParamsRefOut.pdb
+D:\CSharpCourse\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\ParamsRefOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\ParamsRefOut.AssemblyInfoInputs.cache
+D:\CSharpCourse\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\ParamsRefOut.AssemblyInfo.cs
+D:\CSharpCourse\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\ParamsRefOut.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\ParamsRefOut.dll
+D:\CSharpCourse\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\refint\ParamsRefOut.dll
+D:\CSharpCourse\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\ParamsRefOut.pdb
+D:\CSharpCourse\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\ParamsRefOut.genruntimeconfig.cache
+D:\CSharpCourse\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\ref\ParamsRefOut.dll

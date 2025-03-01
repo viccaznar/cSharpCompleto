@@ -1,0 +1,14 @@
+D:\CSharpCourse\ExercicioConjunto1\ExercicioConjunto1\bin\Debug\net8.0\ExercicioConjunto1.exe
+D:\CSharpCourse\ExercicioConjunto1\ExercicioConjunto1\bin\Debug\net8.0\ExercicioConjunto1.deps.json
+D:\CSharpCourse\ExercicioConjunto1\ExercicioConjunto1\bin\Debug\net8.0\ExercicioConjunto1.runtimeconfig.json
+D:\CSharpCourse\ExercicioConjunto1\ExercicioConjunto1\bin\Debug\net8.0\ExercicioConjunto1.dll
+D:\CSharpCourse\ExercicioConjunto1\ExercicioConjunto1\bin\Debug\net8.0\ExercicioConjunto1.pdb
+D:\CSharpCourse\ExercicioConjunto1\ExercicioConjunto1\obj\Debug\net8.0\ExercicioConjunto1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\ExercicioConjunto1\ExercicioConjunto1\obj\Debug\net8.0\ExercicioConjunto1.AssemblyInfoInputs.cache
+D:\CSharpCourse\ExercicioConjunto1\ExercicioConjunto1\obj\Debug\net8.0\ExercicioConjunto1.AssemblyInfo.cs
+D:\CSharpCourse\ExercicioConjunto1\ExercicioConjunto1\obj\Debug\net8.0\ExercicioConjunto1.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\ExercicioConjunto1\ExercicioConjunto1\obj\Debug\net8.0\ExercicioConjunto1.dll
+D:\CSharpCourse\ExercicioConjunto1\ExercicioConjunto1\obj\Debug\net8.0\refint\ExercicioConjunto1.dll
+D:\CSharpCourse\ExercicioConjunto1\ExercicioConjunto1\obj\Debug\net8.0\ExercicioConjunto1.pdb
+D:\CSharpCourse\ExercicioConjunto1\ExercicioConjunto1\obj\Debug\net8.0\ExercicioConjunto1.genruntimeconfig.cache
+D:\CSharpCourse\ExercicioConjunto1\ExercicioConjunto1\obj\Debug\net8.0\ref\ExercicioConjunto1.dll

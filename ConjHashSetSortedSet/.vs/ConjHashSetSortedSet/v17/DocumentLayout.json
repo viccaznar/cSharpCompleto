@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCourse\\ConjHashSetSortedSet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA5ECEF-BD72-4B0C-AC11-40D5CBCF7FE6}|ConjHashSetSortedSet\\ConjHashSetSortedSet.csproj|d:\\csharpcourse\\conjhashsetsortedset\\conjhashsetsortedset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA5ECEF-BD72-4B0C-AC11-40D5CBCF7FE6}|ConjHashSetSortedSet\\ConjHashSetSortedSet.csproj|solutionrelative:conjhashsetsortedset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\ConjHashSetSortedSet\\ConjHashSetSortedSet\\Program.cs",
+              "RelativeDocumentMoniker": "ConjHashSetSortedSet\\Program.cs",
+              "ToolTip": "D:\\CSharpCourse\\ConjHashSetSortedSet\\ConjHashSetSortedSet\\Program.cs",
+              "RelativeToolTip": "ConjHashSetSortedSet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:20:09.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

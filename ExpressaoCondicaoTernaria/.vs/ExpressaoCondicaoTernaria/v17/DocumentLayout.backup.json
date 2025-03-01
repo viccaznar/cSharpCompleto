@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCourse\\ExpressaoCondicaoTernaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73AE007D-6778-4FA7-A67D-EF402ED7B701}|ExpressaoCondicaoTernaria\\ExpressaoCondicaoTernaria.csproj|d:\\csharpcourse\\expressaocondicaoternaria\\expressaocondicaoternaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AE007D-6778-4FA7-A67D-EF402ED7B701}|ExpressaoCondicaoTernaria\\ExpressaoCondicaoTernaria.csproj|solutionrelative:expressaocondicaoternaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\ExpressaoCondicaoTernaria\\ExpressaoCondicaoTernaria\\Program.cs",
+              "RelativeDocumentMoniker": "ExpressaoCondicaoTernaria\\Program.cs",
+              "ToolTip": "D:\\CSharpCourse\\ExpressaoCondicaoTernaria\\ExpressaoCondicaoTernaria\\Program.cs",
+              "RelativeToolTip": "ExpressaoCondicaoTernaria\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T21:11:50.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

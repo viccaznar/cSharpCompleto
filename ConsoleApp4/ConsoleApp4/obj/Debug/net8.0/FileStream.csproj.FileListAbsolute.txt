@@ -1,0 +1,14 @@
+D:\CSharpCourse\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\FileStream.exe
+D:\CSharpCourse\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\FileStream.deps.json
+D:\CSharpCourse\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\FileStream.runtimeconfig.json
+D:\CSharpCourse\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\FileStream.dll
+D:\CSharpCourse\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\FileStream.pdb
+D:\CSharpCourse\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\FileStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\FileStream.AssemblyInfoInputs.cache
+D:\CSharpCourse\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\FileStream.AssemblyInfo.cs
+D:\CSharpCourse\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\FileStream.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\FileStream.dll
+D:\CSharpCourse\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\refint\FileStream.dll
+D:\CSharpCourse\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\FileStream.pdb
+D:\CSharpCourse\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\FileStream.genruntimeconfig.cache
+D:\CSharpCourse\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ref\FileStream.dll

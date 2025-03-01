@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCourse\\ExcecoesPersonalizadas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3ADC1D-C075-42E6-AD1B-285070E4ABA3}|ExcecoesPersonalizadas\\ExcecoesPersonalizadas.csproj|d:\\csharpcourse\\excecoespersonalizadas\\excecoespersonalizadas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3ADC1D-C075-42E6-AD1B-285070E4ABA3}|ExcecoesPersonalizadas\\ExcecoesPersonalizadas.csproj|solutionrelative:excecoespersonalizadas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3ADC1D-C075-42E6-AD1B-285070E4ABA3}|ExcecoesPersonalizadas\\ExcecoesPersonalizadas.csproj|d:\\csharpcourse\\excecoespersonalizadas\\excecoespersonalizadas\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3ADC1D-C075-42E6-AD1B-285070E4ABA3}|ExcecoesPersonalizadas\\ExcecoesPersonalizadas.csproj|solutionrelative:excecoespersonalizadas\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3ADC1D-C075-42E6-AD1B-285070E4ABA3}|ExcecoesPersonalizadas\\ExcecoesPersonalizadas.csproj|d:\\csharpcourse\\excecoespersonalizadas\\excecoespersonalizadas\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3ADC1D-C075-42E6-AD1B-285070E4ABA3}|ExcecoesPersonalizadas\\ExcecoesPersonalizadas.csproj|solutionrelative:excecoespersonalizadas\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\ExcecoesPersonalizadas\\ExcecoesPersonalizadas\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "ExcecoesPersonalizadas\\Entities\\Exceptions\\DomainException.cs",
+              "ToolTip": "D:\\CSharpCourse\\ExcecoesPersonalizadas\\ExcecoesPersonalizadas\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "ExcecoesPersonalizadas\\Entities\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:10:54.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\ExcecoesPersonalizadas\\ExcecoesPersonalizadas\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "ExcecoesPersonalizadas\\Entities\\Reservation.cs",
+              "ToolTip": "D:\\CSharpCourse\\ExcecoesPersonalizadas\\ExcecoesPersonalizadas\\Entities\\Reservation.cs",
+              "RelativeToolTip": "ExcecoesPersonalizadas\\Entities\\Reservation.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:12:14.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\ExcecoesPersonalizadas\\ExcecoesPersonalizadas\\Program.cs",
+              "RelativeDocumentMoniker": "ExcecoesPersonalizadas\\Program.cs",
+              "ToolTip": "D:\\CSharpCourse\\ExcecoesPersonalizadas\\ExcecoesPersonalizadas\\Program.cs",
+              "RelativeToolTip": "ExcecoesPersonalizadas\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:09:24.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

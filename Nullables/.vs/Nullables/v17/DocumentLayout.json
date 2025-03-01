@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCourse\\Nullables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7289C8-20F0-415A-BE2A-2AB71960000B}|Nullables\\Nullables.csproj|d:\\csharpcourse\\nullables\\nullables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7289C8-20F0-415A-BE2A-2AB71960000B}|Nullables\\Nullables.csproj|solutionrelative:nullables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\Nullables\\Nullables\\Program.cs",
+              "RelativeDocumentMoniker": "Nullables\\Program.cs",
+              "ToolTip": "D:\\CSharpCourse\\Nullables\\Nullables\\Program.cs",
+              "RelativeToolTip": "Nullables\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:23:09.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

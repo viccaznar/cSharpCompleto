@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCourse\\SolucaoSemInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01622DB1-4131-4213-943A-3CB808F83F46}|SolucaoSemInterface\\SolucaoSemInterface.csproj|d:\\csharpcourse\\solucaoseminterface\\solucaoseminterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01622DB1-4131-4213-943A-3CB808F83F46}|SolucaoSemInterface\\SolucaoSemInterface.csproj|solutionrelative:solucaoseminterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01622DB1-4131-4213-943A-3CB808F83F46}|SolucaoSemInterface\\SolucaoSemInterface.csproj|d:\\csharpcourse\\solucaoseminterface\\solucaoseminterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01622DB1-4131-4213-943A-3CB808F83F46}|SolucaoSemInterface\\SolucaoSemInterface.csproj|solutionrelative:solucaoseminterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01622DB1-4131-4213-943A-3CB808F83F46}|SolucaoSemInterface\\SolucaoSemInterface.csproj|d:\\csharpcourse\\solucaoseminterface\\solucaoseminterface\\entites\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01622DB1-4131-4213-943A-3CB808F83F46}|SolucaoSemInterface\\SolucaoSemInterface.csproj|solutionrelative:solucaoseminterface\\entites\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01622DB1-4131-4213-943A-3CB808F83F46}|SolucaoSemInterface\\SolucaoSemInterface.csproj|d:\\csharpcourse\\solucaoseminterface\\solucaoseminterface\\interface\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01622DB1-4131-4213-943A-3CB808F83F46}|SolucaoSemInterface\\SolucaoSemInterface.csproj|solutionrelative:solucaoseminterface\\interface\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01622DB1-4131-4213-943A-3CB808F83F46}|SolucaoSemInterface\\SolucaoSemInterface.csproj|d:\\csharpcourse\\solucaoseminterface\\solucaoseminterface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01622DB1-4131-4213-943A-3CB808F83F46}|SolucaoSemInterface\\SolucaoSemInterface.csproj|solutionrelative:solucaoseminterface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01622DB1-4131-4213-943A-3CB808F83F46}|SolucaoSemInterface\\SolucaoSemInterface.csproj|d:\\csharpcourse\\solucaoseminterface\\solucaoseminterface\\entites\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01622DB1-4131-4213-943A-3CB808F83F46}|SolucaoSemInterface\\SolucaoSemInterface.csproj|solutionrelative:solucaoseminterface\\entites\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01622DB1-4131-4213-943A-3CB808F83F46}|SolucaoSemInterface\\SolucaoSemInterface.csproj|d:\\csharpcourse\\solucaoseminterface\\solucaoseminterface\\entites\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01622DB1-4131-4213-943A-3CB808F83F46}|SolucaoSemInterface\\SolucaoSemInterface.csproj|solutionrelative:solucaoseminterface\\entites\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\SolucaoSemInterface\\SolucaoSemInterface\\Entites\\Invoice.cs",
+              "RelativeDocumentMoniker": "SolucaoSemInterface\\Entites\\Invoice.cs",
+              "ToolTip": "D:\\CSharpCourse\\SolucaoSemInterface\\SolucaoSemInterface\\Entites\\Invoice.cs",
+              "RelativeToolTip": "SolucaoSemInterface\\Entites\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:50:04.585Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\SolucaoSemInterface\\SolucaoSemInterface\\Interface\\ITaxService.cs",
+              "RelativeDocumentMoniker": "SolucaoSemInterface\\Interface\\ITaxService.cs",
+              "ToolTip": "D:\\CSharpCourse\\SolucaoSemInterface\\SolucaoSemInterface\\Interface\\ITaxService.cs",
+              "RelativeToolTip": "SolucaoSemInterface\\Interface\\ITaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:19:11.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrazilTaxService.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\SolucaoSemInterface\\SolucaoSemInterface\\Services\\BrazilTaxService.cs",
+              "RelativeDocumentMoniker": "SolucaoSemInterface\\Services\\BrazilTaxService.cs",
+              "ToolTip": "D:\\CSharpCourse\\SolucaoSemInterface\\SolucaoSemInterface\\Services\\BrazilTaxService.cs",
+              "RelativeToolTip": "SolucaoSemInterface\\Services\\BrazilTaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:48:09.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\SolucaoSemInterface\\SolucaoSemInterface\\Entites\\CarRental.cs",
+              "RelativeDocumentMoniker": "SolucaoSemInterface\\Entites\\CarRental.cs",
+              "ToolTip": "D:\\CSharpCourse\\SolucaoSemInterface\\SolucaoSemInterface\\Entites\\CarRental.cs",
+              "RelativeToolTip": "SolucaoSemInterface\\Entites\\CarRental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:21:52.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\SolucaoSemInterface\\SolucaoSemInterface\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "SolucaoSemInterface\\Services\\RentalService.cs",
+              "ToolTip": "D:\\CSharpCourse\\SolucaoSemInterface\\SolucaoSemInterface\\Services\\RentalService.cs",
+              "RelativeToolTip": "SolucaoSemInterface\\Services\\RentalService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:58:39.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\SolucaoSemInterface\\SolucaoSemInterface\\Entites\\Vehicle.cs",
+              "RelativeDocumentMoniker": "SolucaoSemInterface\\Entites\\Vehicle.cs",
+              "ToolTip": "D:\\CSharpCourse\\SolucaoSemInterface\\SolucaoSemInterface\\Entites\\Vehicle.cs",
+              "RelativeToolTip": "SolucaoSemInterface\\Entites\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:47:53.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\SolucaoSemInterface\\SolucaoSemInterface\\Program.cs",
+              "RelativeDocumentMoniker": "SolucaoSemInterface\\Program.cs",
+              "ToolTip": "D:\\CSharpCourse\\SolucaoSemInterface\\SolucaoSemInterface\\Program.cs",
+              "RelativeToolTip": "SolucaoSemInterface\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwCAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:41:20.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

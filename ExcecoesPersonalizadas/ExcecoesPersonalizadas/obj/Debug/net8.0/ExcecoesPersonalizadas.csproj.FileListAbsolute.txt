@@ -1,0 +1,14 @@
+D:\CSharpCourse\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\ExcecoesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\ExcecoesPersonalizadas.AssemblyInfoInputs.cache
+D:\CSharpCourse\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\ExcecoesPersonalizadas.AssemblyInfo.cs
+D:\CSharpCourse\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\ExcecoesPersonalizadas.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\net8.0\ExcecoesPersonalizadas.exe
+D:\CSharpCourse\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\net8.0\ExcecoesPersonalizadas.deps.json
+D:\CSharpCourse\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\net8.0\ExcecoesPersonalizadas.runtimeconfig.json
+D:\CSharpCourse\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\net8.0\ExcecoesPersonalizadas.dll
+D:\CSharpCourse\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\net8.0\ExcecoesPersonalizadas.pdb
+D:\CSharpCourse\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\ExcecoesPersonalizadas.dll
+D:\CSharpCourse\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\refint\ExcecoesPersonalizadas.dll
+D:\CSharpCourse\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\ExcecoesPersonalizadas.pdb
+D:\CSharpCourse\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\ExcecoesPersonalizadas.genruntimeconfig.cache
+D:\CSharpCourse\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\ref\ExcecoesPersonalizadas.dll

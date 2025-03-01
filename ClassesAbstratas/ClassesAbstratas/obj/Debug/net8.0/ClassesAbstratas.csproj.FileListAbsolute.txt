@@ -1,0 +1,14 @@
+D:\CSharpCourse\ClassesAbstratas\ClassesAbstratas\bin\Debug\net8.0\ClassesAbstratas.exe
+D:\CSharpCourse\ClassesAbstratas\ClassesAbstratas\bin\Debug\net8.0\ClassesAbstratas.deps.json
+D:\CSharpCourse\ClassesAbstratas\ClassesAbstratas\bin\Debug\net8.0\ClassesAbstratas.runtimeconfig.json
+D:\CSharpCourse\ClassesAbstratas\ClassesAbstratas\bin\Debug\net8.0\ClassesAbstratas.dll
+D:\CSharpCourse\ClassesAbstratas\ClassesAbstratas\bin\Debug\net8.0\ClassesAbstratas.pdb
+D:\CSharpCourse\ClassesAbstratas\ClassesAbstratas\obj\Debug\net8.0\ClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\ClassesAbstratas\ClassesAbstratas\obj\Debug\net8.0\ClassesAbstratas.AssemblyInfoInputs.cache
+D:\CSharpCourse\ClassesAbstratas\ClassesAbstratas\obj\Debug\net8.0\ClassesAbstratas.AssemblyInfo.cs
+D:\CSharpCourse\ClassesAbstratas\ClassesAbstratas\obj\Debug\net8.0\ClassesAbstratas.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\ClassesAbstratas\ClassesAbstratas\obj\Debug\net8.0\ClassesAbstratas.dll
+D:\CSharpCourse\ClassesAbstratas\ClassesAbstratas\obj\Debug\net8.0\refint\ClassesAbstratas.dll
+D:\CSharpCourse\ClassesAbstratas\ClassesAbstratas\obj\Debug\net8.0\ClassesAbstratas.pdb
+D:\CSharpCourse\ClassesAbstratas\ClassesAbstratas\obj\Debug\net8.0\ClassesAbstratas.genruntimeconfig.cache
+D:\CSharpCourse\ClassesAbstratas\ClassesAbstratas\obj\Debug\net8.0\ref\ClassesAbstratas.dll

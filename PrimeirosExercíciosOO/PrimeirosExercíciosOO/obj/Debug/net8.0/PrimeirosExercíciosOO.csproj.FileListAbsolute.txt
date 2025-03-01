@@ -1,0 +1,14 @@
+D:\CSharpCourse\PrimeirosExercíciosOO\PrimeirosExercíciosOO\bin\Debug\net8.0\PrimeirosExercíciosOO.exe
+D:\CSharpCourse\PrimeirosExercíciosOO\PrimeirosExercíciosOO\bin\Debug\net8.0\PrimeirosExercíciosOO.deps.json
+D:\CSharpCourse\PrimeirosExercíciosOO\PrimeirosExercíciosOO\bin\Debug\net8.0\PrimeirosExercíciosOO.runtimeconfig.json
+D:\CSharpCourse\PrimeirosExercíciosOO\PrimeirosExercíciosOO\bin\Debug\net8.0\PrimeirosExercíciosOO.dll
+D:\CSharpCourse\PrimeirosExercíciosOO\PrimeirosExercíciosOO\bin\Debug\net8.0\PrimeirosExercíciosOO.pdb
+D:\CSharpCourse\PrimeirosExercíciosOO\PrimeirosExercíciosOO\obj\Debug\net8.0\PrimeirosExercíciosOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\PrimeirosExercíciosOO\PrimeirosExercíciosOO\obj\Debug\net8.0\PrimeirosExercíciosOO.AssemblyInfoInputs.cache
+D:\CSharpCourse\PrimeirosExercíciosOO\PrimeirosExercíciosOO\obj\Debug\net8.0\PrimeirosExercíciosOO.AssemblyInfo.cs
+D:\CSharpCourse\PrimeirosExercíciosOO\PrimeirosExercíciosOO\obj\Debug\net8.0\PrimeirosExercíciosOO.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\PrimeirosExercíciosOO\PrimeirosExercíciosOO\obj\Debug\net8.0\PrimeirosExercíciosOO.dll
+D:\CSharpCourse\PrimeirosExercíciosOO\PrimeirosExercíciosOO\obj\Debug\net8.0\refint\PrimeirosExercíciosOO.dll
+D:\CSharpCourse\PrimeirosExercíciosOO\PrimeirosExercíciosOO\obj\Debug\net8.0\PrimeirosExercíciosOO.pdb
+D:\CSharpCourse\PrimeirosExercíciosOO\PrimeirosExercíciosOO\obj\Debug\net8.0\PrimeirosExercíciosOO.genruntimeconfig.cache
+D:\CSharpCourse\PrimeirosExercíciosOO\PrimeirosExercíciosOO\obj\Debug\net8.0\ref\PrimeirosExercíciosOO.dll

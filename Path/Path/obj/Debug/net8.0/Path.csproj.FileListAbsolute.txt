@@ -1,0 +1,14 @@
+D:\CSharpCourse\Path\Path\bin\Debug\net8.0\Path.exe
+D:\CSharpCourse\Path\Path\bin\Debug\net8.0\Path.deps.json
+D:\CSharpCourse\Path\Path\bin\Debug\net8.0\Path.runtimeconfig.json
+D:\CSharpCourse\Path\Path\bin\Debug\net8.0\Path.dll
+D:\CSharpCourse\Path\Path\bin\Debug\net8.0\Path.pdb
+D:\CSharpCourse\Path\Path\obj\Debug\net8.0\Path.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\Path\Path\obj\Debug\net8.0\Path.AssemblyInfoInputs.cache
+D:\CSharpCourse\Path\Path\obj\Debug\net8.0\Path.AssemblyInfo.cs
+D:\CSharpCourse\Path\Path\obj\Debug\net8.0\Path.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\Path\Path\obj\Debug\net8.0\Path.dll
+D:\CSharpCourse\Path\Path\obj\Debug\net8.0\refint\Path.dll
+D:\CSharpCourse\Path\Path\obj\Debug\net8.0\Path.pdb
+D:\CSharpCourse\Path\Path\obj\Debug\net8.0\Path.genruntimeconfig.cache
+D:\CSharpCourse\Path\Path\obj\Debug\net8.0\ref\Path.dll

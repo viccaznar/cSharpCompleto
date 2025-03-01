@@ -1,0 +1,14 @@
+D:\CSharpCourse\ListaExercicio\ListaExercicio\bin\Debug\net8.0\ListaExercicio.exe
+D:\CSharpCourse\ListaExercicio\ListaExercicio\bin\Debug\net8.0\ListaExercicio.deps.json
+D:\CSharpCourse\ListaExercicio\ListaExercicio\bin\Debug\net8.0\ListaExercicio.runtimeconfig.json
+D:\CSharpCourse\ListaExercicio\ListaExercicio\bin\Debug\net8.0\ListaExercicio.dll
+D:\CSharpCourse\ListaExercicio\ListaExercicio\bin\Debug\net8.0\ListaExercicio.pdb
+D:\CSharpCourse\ListaExercicio\ListaExercicio\obj\Debug\net8.0\ListaExercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\ListaExercicio\ListaExercicio\obj\Debug\net8.0\ListaExercicio.AssemblyInfoInputs.cache
+D:\CSharpCourse\ListaExercicio\ListaExercicio\obj\Debug\net8.0\ListaExercicio.AssemblyInfo.cs
+D:\CSharpCourse\ListaExercicio\ListaExercicio\obj\Debug\net8.0\ListaExercicio.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\ListaExercicio\ListaExercicio\obj\Debug\net8.0\ListaExercicio.dll
+D:\CSharpCourse\ListaExercicio\ListaExercicio\obj\Debug\net8.0\refint\ListaExercicio.dll
+D:\CSharpCourse\ListaExercicio\ListaExercicio\obj\Debug\net8.0\ListaExercicio.pdb
+D:\CSharpCourse\ListaExercicio\ListaExercicio\obj\Debug\net8.0\ListaExercicio.genruntimeconfig.cache
+D:\CSharpCourse\ListaExercicio\ListaExercicio\obj\Debug\net8.0\ref\ListaExercicio.dll

@@ -1,0 +1,14 @@
+D:\CSharpCourse\VirtualOveride\VirtualOveride\obj\Debug\net8.0\VirtualOveride.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\VirtualOveride\VirtualOveride\obj\Debug\net8.0\VirtualOveride.AssemblyInfoInputs.cache
+D:\CSharpCourse\VirtualOveride\VirtualOveride\obj\Debug\net8.0\VirtualOveride.AssemblyInfo.cs
+D:\CSharpCourse\VirtualOveride\VirtualOveride\obj\Debug\net8.0\VirtualOveride.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\VirtualOveride\VirtualOveride\bin\Debug\net8.0\VirtualOveride.exe
+D:\CSharpCourse\VirtualOveride\VirtualOveride\bin\Debug\net8.0\VirtualOveride.deps.json
+D:\CSharpCourse\VirtualOveride\VirtualOveride\bin\Debug\net8.0\VirtualOveride.runtimeconfig.json
+D:\CSharpCourse\VirtualOveride\VirtualOveride\bin\Debug\net8.0\VirtualOveride.dll
+D:\CSharpCourse\VirtualOveride\VirtualOveride\bin\Debug\net8.0\VirtualOveride.pdb
+D:\CSharpCourse\VirtualOveride\VirtualOveride\obj\Debug\net8.0\VirtualOveride.dll
+D:\CSharpCourse\VirtualOveride\VirtualOveride\obj\Debug\net8.0\refint\VirtualOveride.dll
+D:\CSharpCourse\VirtualOveride\VirtualOveride\obj\Debug\net8.0\VirtualOveride.pdb
+D:\CSharpCourse\VirtualOveride\VirtualOveride\obj\Debug\net8.0\VirtualOveride.genruntimeconfig.cache
+D:\CSharpCourse\VirtualOveride\VirtualOveride\obj\Debug\net8.0\ref\VirtualOveride.dll

@@ -1,0 +1,14 @@
+D:\CSharpCourse\Predicate\Predicate\bin\Debug\net8.0\Predicate.exe
+D:\CSharpCourse\Predicate\Predicate\bin\Debug\net8.0\Predicate.deps.json
+D:\CSharpCourse\Predicate\Predicate\bin\Debug\net8.0\Predicate.runtimeconfig.json
+D:\CSharpCourse\Predicate\Predicate\bin\Debug\net8.0\Predicate.dll
+D:\CSharpCourse\Predicate\Predicate\bin\Debug\net8.0\Predicate.pdb
+D:\CSharpCourse\Predicate\Predicate\obj\Debug\net8.0\Predicate.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\Predicate\Predicate\obj\Debug\net8.0\Predicate.AssemblyInfoInputs.cache
+D:\CSharpCourse\Predicate\Predicate\obj\Debug\net8.0\Predicate.AssemblyInfo.cs
+D:\CSharpCourse\Predicate\Predicate\obj\Debug\net8.0\Predicate.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\Predicate\Predicate\obj\Debug\net8.0\Predicate.dll
+D:\CSharpCourse\Predicate\Predicate\obj\Debug\net8.0\refint\Predicate.dll
+D:\CSharpCourse\Predicate\Predicate\obj\Debug\net8.0\Predicate.pdb
+D:\CSharpCourse\Predicate\Predicate\obj\Debug\net8.0\Predicate.genruntimeconfig.cache
+D:\CSharpCourse\Predicate\Predicate\obj\Debug\net8.0\ref\Predicate.dll

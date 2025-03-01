@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCourse\\Heran\u00E7a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{150FDB4F-4124-47A2-9159-05BE3CC7F324}|Heran\u00E7a\\Heran\u00E7a.csproj|d:\\csharpcourse\\heran\u00E7a\\heran\u00E7a\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150FDB4F-4124-47A2-9159-05BE3CC7F324}|Heran\u00E7a\\Heran\u00E7a.csproj|solutionrelative:heran\u00E7a\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150FDB4F-4124-47A2-9159-05BE3CC7F324}|Heran\u00E7a\\Heran\u00E7a.csproj|d:\\csharpcourse\\heran\u00E7a\\heran\u00E7a\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150FDB4F-4124-47A2-9159-05BE3CC7F324}|Heran\u00E7a\\Heran\u00E7a.csproj|solutionrelative:heran\u00E7a\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150FDB4F-4124-47A2-9159-05BE3CC7F324}|Heran\u00E7a\\Heran\u00E7a.csproj|d:\\csharpcourse\\heran\u00E7a\\heran\u00E7a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150FDB4F-4124-47A2-9159-05BE3CC7F324}|Heran\u00E7a\\Heran\u00E7a.csproj|solutionrelative:heran\u00E7a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\Heran\u00E7a\\Heran\u00E7a\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a\\Entities\\BusinessAccount.cs",
+              "ToolTip": "D:\\CSharpCourse\\Heran\u00E7a\\Heran\u00E7a\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "Heran\u00E7a\\Entities\\BusinessAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:46:00.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\Heran\u00E7a\\Heran\u00E7a\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a\\Entities\\Account.cs",
+              "ToolTip": "D:\\CSharpCourse\\Heran\u00E7a\\Heran\u00E7a\\Entities\\Account.cs",
+              "RelativeToolTip": "Heran\u00E7a\\Entities\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:48:40.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\Heran\u00E7a\\Heran\u00E7a\\Program.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a\\Program.cs",
+              "ToolTip": "D:\\CSharpCourse\\Heran\u00E7a\\Heran\u00E7a\\Program.cs",
+              "RelativeToolTip": "Heran\u00E7a\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:28:46.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

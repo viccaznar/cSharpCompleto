@@ -1,0 +1,14 @@
+D:\CSharpCourse\Matriz\Matriz\bin\Debug\net8.0\Matriz.exe
+D:\CSharpCourse\Matriz\Matriz\bin\Debug\net8.0\Matriz.deps.json
+D:\CSharpCourse\Matriz\Matriz\bin\Debug\net8.0\Matriz.runtimeconfig.json
+D:\CSharpCourse\Matriz\Matriz\bin\Debug\net8.0\Matriz.dll
+D:\CSharpCourse\Matriz\Matriz\bin\Debug\net8.0\Matriz.pdb
+D:\CSharpCourse\Matriz\Matriz\obj\Debug\net8.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\Matriz\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfoInputs.cache
+D:\CSharpCourse\Matriz\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfo.cs
+D:\CSharpCourse\Matriz\Matriz\obj\Debug\net8.0\Matriz.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\Matriz\Matriz\obj\Debug\net8.0\Matriz.dll
+D:\CSharpCourse\Matriz\Matriz\obj\Debug\net8.0\refint\Matriz.dll
+D:\CSharpCourse\Matriz\Matriz\obj\Debug\net8.0\Matriz.pdb
+D:\CSharpCourse\Matriz\Matriz\obj\Debug\net8.0\Matriz.genruntimeconfig.cache
+D:\CSharpCourse\Matriz\Matriz\obj\Debug\net8.0\ref\Matriz.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramacaoFuncionalLambda", "ProgramacaoFuncionalLambda\ProgramacaoFuncionalLambda.csproj", "{925F1850-21D5-4E4A-8CB5-27D5A1A7D6AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{925F1850-21D5-4E4A-8CB5-27D5A1A7D6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925F1850-21D5-4E4A-8CB5-27D5A1A7D6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925F1850-21D5-4E4A-8CB5-27D5A1A7D6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925F1850-21D5-4E4A-8CB5-27D5A1A7D6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82792986-EE0B-4EB2-AF0E-6D1992679804}
+	EndGlobalSection
+EndGlobal

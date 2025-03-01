@@ -1,0 +1,14 @@
+D:\CSharpCourse\TipoReferenciaTipoValor\TipoReferenciaTipoValor\bin\Debug\net8.0\TipoReferenciaTipoValor.exe
+D:\CSharpCourse\TipoReferenciaTipoValor\TipoReferenciaTipoValor\bin\Debug\net8.0\TipoReferenciaTipoValor.deps.json
+D:\CSharpCourse\TipoReferenciaTipoValor\TipoReferenciaTipoValor\bin\Debug\net8.0\TipoReferenciaTipoValor.runtimeconfig.json
+D:\CSharpCourse\TipoReferenciaTipoValor\TipoReferenciaTipoValor\bin\Debug\net8.0\TipoReferenciaTipoValor.dll
+D:\CSharpCourse\TipoReferenciaTipoValor\TipoReferenciaTipoValor\bin\Debug\net8.0\TipoReferenciaTipoValor.pdb
+D:\CSharpCourse\TipoReferenciaTipoValor\TipoReferenciaTipoValor\obj\Debug\net8.0\TipoReferenciaTipoValor.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\TipoReferenciaTipoValor\TipoReferenciaTipoValor\obj\Debug\net8.0\TipoReferenciaTipoValor.AssemblyInfoInputs.cache
+D:\CSharpCourse\TipoReferenciaTipoValor\TipoReferenciaTipoValor\obj\Debug\net8.0\TipoReferenciaTipoValor.AssemblyInfo.cs
+D:\CSharpCourse\TipoReferenciaTipoValor\TipoReferenciaTipoValor\obj\Debug\net8.0\TipoReferenciaTipoValor.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\TipoReferenciaTipoValor\TipoReferenciaTipoValor\obj\Debug\net8.0\TipoReferenciaTipoValor.dll
+D:\CSharpCourse\TipoReferenciaTipoValor\TipoReferenciaTipoValor\obj\Debug\net8.0\refint\TipoReferenciaTipoValor.dll
+D:\CSharpCourse\TipoReferenciaTipoValor\TipoReferenciaTipoValor\obj\Debug\net8.0\TipoReferenciaTipoValor.pdb
+D:\CSharpCourse\TipoReferenciaTipoValor\TipoReferenciaTipoValor\obj\Debug\net8.0\TipoReferenciaTipoValor.genruntimeconfig.cache
+D:\CSharpCourse\TipoReferenciaTipoValor\TipoReferenciaTipoValor\obj\Debug\net8.0\ref\TipoReferenciaTipoValor.dll

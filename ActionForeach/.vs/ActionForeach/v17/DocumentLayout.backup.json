@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCourse\\ActionForeach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46EAF560-395C-45AF-B1D3-3A790EDDEAAA}|ActionForeach\\ActionForeach.csproj|d:\\csharpcourse\\actionforeach\\actionforeach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EAF560-395C-45AF-B1D3-3A790EDDEAAA}|ActionForeach\\ActionForeach.csproj|solutionrelative:actionforeach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EAF560-395C-45AF-B1D3-3A790EDDEAAA}|ActionForeach\\ActionForeach.csproj|d:\\csharpcourse\\actionforeach\\actionforeach\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EAF560-395C-45AF-B1D3-3A790EDDEAAA}|ActionForeach\\ActionForeach.csproj|solutionrelative:actionforeach\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\ActionForeach\\ActionForeach\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ActionForeach\\Entities\\Product.cs",
+              "ToolTip": "D:\\CSharpCourse\\ActionForeach\\ActionForeach\\Entities\\Product.cs",
+              "RelativeToolTip": "ActionForeach\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:02:16.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\ActionForeach\\ActionForeach\\Program.cs",
+              "RelativeDocumentMoniker": "ActionForeach\\Program.cs",
+              "ToolTip": "D:\\CSharpCourse\\ActionForeach\\ActionForeach\\Program.cs",
+              "RelativeToolTip": "ActionForeach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:01:55.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

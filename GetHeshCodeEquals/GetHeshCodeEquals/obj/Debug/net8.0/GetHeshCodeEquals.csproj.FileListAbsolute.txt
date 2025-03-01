@@ -1,0 +1,14 @@
+D:\CSharpCourse\GetHeshCodeEquals\GetHeshCodeEquals\bin\Debug\net8.0\GetHeshCodeEquals.exe
+D:\CSharpCourse\GetHeshCodeEquals\GetHeshCodeEquals\bin\Debug\net8.0\GetHeshCodeEquals.deps.json
+D:\CSharpCourse\GetHeshCodeEquals\GetHeshCodeEquals\bin\Debug\net8.0\GetHeshCodeEquals.runtimeconfig.json
+D:\CSharpCourse\GetHeshCodeEquals\GetHeshCodeEquals\bin\Debug\net8.0\GetHeshCodeEquals.dll
+D:\CSharpCourse\GetHeshCodeEquals\GetHeshCodeEquals\bin\Debug\net8.0\GetHeshCodeEquals.pdb
+D:\CSharpCourse\GetHeshCodeEquals\GetHeshCodeEquals\obj\Debug\net8.0\GetHeshCodeEquals.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\GetHeshCodeEquals\GetHeshCodeEquals\obj\Debug\net8.0\GetHeshCodeEquals.AssemblyInfoInputs.cache
+D:\CSharpCourse\GetHeshCodeEquals\GetHeshCodeEquals\obj\Debug\net8.0\GetHeshCodeEquals.AssemblyInfo.cs
+D:\CSharpCourse\GetHeshCodeEquals\GetHeshCodeEquals\obj\Debug\net8.0\GetHeshCodeEquals.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\GetHeshCodeEquals\GetHeshCodeEquals\obj\Debug\net8.0\GetHeshCodeEquals.dll
+D:\CSharpCourse\GetHeshCodeEquals\GetHeshCodeEquals\obj\Debug\net8.0\refint\GetHeshCodeEquals.dll
+D:\CSharpCourse\GetHeshCodeEquals\GetHeshCodeEquals\obj\Debug\net8.0\GetHeshCodeEquals.pdb
+D:\CSharpCourse\GetHeshCodeEquals\GetHeshCodeEquals\obj\Debug\net8.0\GetHeshCodeEquals.genruntimeconfig.cache
+D:\CSharpCourse\GetHeshCodeEquals\GetHeshCodeEquals\obj\Debug\net8.0\ref\GetHeshCodeEquals.dll

@@ -1,0 +1,14 @@
+D:\CSharpCourse\ExercicioWorker\ExercicioWorker\bin\Debug\net8.0\ExercicioWorker.exe
+D:\CSharpCourse\ExercicioWorker\ExercicioWorker\bin\Debug\net8.0\ExercicioWorker.deps.json
+D:\CSharpCourse\ExercicioWorker\ExercicioWorker\bin\Debug\net8.0\ExercicioWorker.runtimeconfig.json
+D:\CSharpCourse\ExercicioWorker\ExercicioWorker\bin\Debug\net8.0\ExercicioWorker.dll
+D:\CSharpCourse\ExercicioWorker\ExercicioWorker\bin\Debug\net8.0\ExercicioWorker.pdb
+D:\CSharpCourse\ExercicioWorker\ExercicioWorker\obj\Debug\net8.0\ExercicioWorker.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\ExercicioWorker\ExercicioWorker\obj\Debug\net8.0\ExercicioWorker.AssemblyInfoInputs.cache
+D:\CSharpCourse\ExercicioWorker\ExercicioWorker\obj\Debug\net8.0\ExercicioWorker.AssemblyInfo.cs
+D:\CSharpCourse\ExercicioWorker\ExercicioWorker\obj\Debug\net8.0\ExercicioWorker.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\ExercicioWorker\ExercicioWorker\obj\Debug\net8.0\ExercicioWorker.dll
+D:\CSharpCourse\ExercicioWorker\ExercicioWorker\obj\Debug\net8.0\refint\ExercicioWorker.dll
+D:\CSharpCourse\ExercicioWorker\ExercicioWorker\obj\Debug\net8.0\ExercicioWorker.pdb
+D:\CSharpCourse\ExercicioWorker\ExercicioWorker\obj\Debug\net8.0\ExercicioWorker.genruntimeconfig.cache
+D:\CSharpCourse\ExercicioWorker\ExercicioWorker\obj\Debug\net8.0\ref\ExercicioWorker.dll

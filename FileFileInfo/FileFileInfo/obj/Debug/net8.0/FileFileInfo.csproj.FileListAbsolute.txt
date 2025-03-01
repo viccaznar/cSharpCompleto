@@ -1,0 +1,14 @@
+D:\CSharpCourse\FileFileInfo\FileFileInfo\bin\Debug\net8.0\FileFileInfo.exe
+D:\CSharpCourse\FileFileInfo\FileFileInfo\bin\Debug\net8.0\FileFileInfo.deps.json
+D:\CSharpCourse\FileFileInfo\FileFileInfo\bin\Debug\net8.0\FileFileInfo.runtimeconfig.json
+D:\CSharpCourse\FileFileInfo\FileFileInfo\bin\Debug\net8.0\FileFileInfo.dll
+D:\CSharpCourse\FileFileInfo\FileFileInfo\bin\Debug\net8.0\FileFileInfo.pdb
+D:\CSharpCourse\FileFileInfo\FileFileInfo\obj\Debug\net8.0\FileFileInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\FileFileInfo\FileFileInfo\obj\Debug\net8.0\FileFileInfo.AssemblyInfoInputs.cache
+D:\CSharpCourse\FileFileInfo\FileFileInfo\obj\Debug\net8.0\FileFileInfo.AssemblyInfo.cs
+D:\CSharpCourse\FileFileInfo\FileFileInfo\obj\Debug\net8.0\FileFileInfo.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\FileFileInfo\FileFileInfo\obj\Debug\net8.0\FileFileInfo.dll
+D:\CSharpCourse\FileFileInfo\FileFileInfo\obj\Debug\net8.0\refint\FileFileInfo.dll
+D:\CSharpCourse\FileFileInfo\FileFileInfo\obj\Debug\net8.0\FileFileInfo.pdb
+D:\CSharpCourse\FileFileInfo\FileFileInfo\obj\Debug\net8.0\FileFileInfo.genruntimeconfig.cache
+D:\CSharpCourse\FileFileInfo\FileFileInfo\obj\Debug\net8.0\ref\FileFileInfo.dll

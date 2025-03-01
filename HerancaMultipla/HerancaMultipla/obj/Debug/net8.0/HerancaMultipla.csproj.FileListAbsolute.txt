@@ -1,0 +1,14 @@
+D:\CSharpCourse\HerancaMultipla\HerancaMultipla\obj\Debug\net8.0\HerancaMultipla.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\HerancaMultipla\HerancaMultipla\obj\Debug\net8.0\HerancaMultipla.AssemblyInfoInputs.cache
+D:\CSharpCourse\HerancaMultipla\HerancaMultipla\obj\Debug\net8.0\HerancaMultipla.AssemblyInfo.cs
+D:\CSharpCourse\HerancaMultipla\HerancaMultipla\obj\Debug\net8.0\HerancaMultipla.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\HerancaMultipla\HerancaMultipla\bin\Debug\net8.0\HerancaMultipla.exe
+D:\CSharpCourse\HerancaMultipla\HerancaMultipla\bin\Debug\net8.0\HerancaMultipla.deps.json
+D:\CSharpCourse\HerancaMultipla\HerancaMultipla\bin\Debug\net8.0\HerancaMultipla.runtimeconfig.json
+D:\CSharpCourse\HerancaMultipla\HerancaMultipla\bin\Debug\net8.0\HerancaMultipla.dll
+D:\CSharpCourse\HerancaMultipla\HerancaMultipla\bin\Debug\net8.0\HerancaMultipla.pdb
+D:\CSharpCourse\HerancaMultipla\HerancaMultipla\obj\Debug\net8.0\HerancaMultipla.dll
+D:\CSharpCourse\HerancaMultipla\HerancaMultipla\obj\Debug\net8.0\refint\HerancaMultipla.dll
+D:\CSharpCourse\HerancaMultipla\HerancaMultipla\obj\Debug\net8.0\HerancaMultipla.pdb
+D:\CSharpCourse\HerancaMultipla\HerancaMultipla\obj\Debug\net8.0\HerancaMultipla.genruntimeconfig.cache
+D:\CSharpCourse\HerancaMultipla\HerancaMultipla\obj\Debug\net8.0\ref\HerancaMultipla.dll

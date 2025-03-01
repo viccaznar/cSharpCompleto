@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCourse\\ExercicioPost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11996E60-8A3F-4A3E-AEBB-ACEFCFEBE408}|ExercicioPost\\ExercicioPost.csproj|d:\\csharpcourse\\exerciciopost\\exerciciopost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11996E60-8A3F-4A3E-AEBB-ACEFCFEBE408}|ExercicioPost\\ExercicioPost.csproj|solutionrelative:exerciciopost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11996E60-8A3F-4A3E-AEBB-ACEFCFEBE408}|ExercicioPost\\ExercicioPost.csproj|d:\\csharpcourse\\exerciciopost\\exerciciopost\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11996E60-8A3F-4A3E-AEBB-ACEFCFEBE408}|ExercicioPost\\ExercicioPost.csproj|solutionrelative:exerciciopost\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11996E60-8A3F-4A3E-AEBB-ACEFCFEBE408}|ExercicioPost\\ExercicioPost.csproj|d:\\csharpcourse\\exerciciopost\\exerciciopost\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11996E60-8A3F-4A3E-AEBB-ACEFCFEBE408}|ExercicioPost\\ExercicioPost.csproj|solutionrelative:exerciciopost\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\ExercicioPost\\ExercicioPost\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "ExercicioPost\\Entities\\Post.cs",
+              "ToolTip": "D:\\CSharpCourse\\ExercicioPost\\ExercicioPost\\Entities\\Post.cs",
+              "RelativeToolTip": "ExercicioPost\\Entities\\Post.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwDkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:28:41.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\ExercicioPost\\ExercicioPost\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "ExercicioPost\\Entities\\Comment.cs",
+              "ToolTip": "D:\\CSharpCourse\\ExercicioPost\\ExercicioPost\\Entities\\Comment.cs",
+              "RelativeToolTip": "ExercicioPost\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:21:05.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\ExercicioPost\\ExercicioPost\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioPost\\Program.cs",
+              "ToolTip": "D:\\CSharpCourse\\ExercicioPost\\ExercicioPost\\Program.cs",
+              "RelativeToolTip": "ExercicioPost\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:16:32.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

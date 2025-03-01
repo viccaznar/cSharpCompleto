@@ -1,0 +1,14 @@
+D:\CSharpCourse\ExercicioEmpresa\ExercicioEmpresa\obj\Debug\net8.0\ExercicioEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\ExercicioEmpresa\ExercicioEmpresa\obj\Debug\net8.0\ExercicioEmpresa.AssemblyInfoInputs.cache
+D:\CSharpCourse\ExercicioEmpresa\ExercicioEmpresa\obj\Debug\net8.0\ExercicioEmpresa.AssemblyInfo.cs
+D:\CSharpCourse\ExercicioEmpresa\ExercicioEmpresa\obj\Debug\net8.0\ExercicioEmpresa.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\ExercicioEmpresa\ExercicioEmpresa\bin\Debug\net8.0\ExercicioEmpresa.exe
+D:\CSharpCourse\ExercicioEmpresa\ExercicioEmpresa\bin\Debug\net8.0\ExercicioEmpresa.deps.json
+D:\CSharpCourse\ExercicioEmpresa\ExercicioEmpresa\bin\Debug\net8.0\ExercicioEmpresa.runtimeconfig.json
+D:\CSharpCourse\ExercicioEmpresa\ExercicioEmpresa\bin\Debug\net8.0\ExercicioEmpresa.dll
+D:\CSharpCourse\ExercicioEmpresa\ExercicioEmpresa\bin\Debug\net8.0\ExercicioEmpresa.pdb
+D:\CSharpCourse\ExercicioEmpresa\ExercicioEmpresa\obj\Debug\net8.0\ExercicioEmpresa.dll
+D:\CSharpCourse\ExercicioEmpresa\ExercicioEmpresa\obj\Debug\net8.0\refint\ExercicioEmpresa.dll
+D:\CSharpCourse\ExercicioEmpresa\ExercicioEmpresa\obj\Debug\net8.0\ExercicioEmpresa.pdb
+D:\CSharpCourse\ExercicioEmpresa\ExercicioEmpresa\obj\Debug\net8.0\ExercicioEmpresa.genruntimeconfig.cache
+D:\CSharpCourse\ExercicioEmpresa\ExercicioEmpresa\obj\Debug\net8.0\ref\ExercicioEmpresa.dll

@@ -1,0 +1,14 @@
+D:\CSharpCourse\UsingBlock\UsingBlock\bin\Debug\net8.0\UsingBlock.exe
+D:\CSharpCourse\UsingBlock\UsingBlock\bin\Debug\net8.0\UsingBlock.deps.json
+D:\CSharpCourse\UsingBlock\UsingBlock\bin\Debug\net8.0\UsingBlock.runtimeconfig.json
+D:\CSharpCourse\UsingBlock\UsingBlock\bin\Debug\net8.0\UsingBlock.dll
+D:\CSharpCourse\UsingBlock\UsingBlock\bin\Debug\net8.0\UsingBlock.pdb
+D:\CSharpCourse\UsingBlock\UsingBlock\obj\Debug\net8.0\UsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\UsingBlock\UsingBlock\obj\Debug\net8.0\UsingBlock.AssemblyInfoInputs.cache
+D:\CSharpCourse\UsingBlock\UsingBlock\obj\Debug\net8.0\UsingBlock.AssemblyInfo.cs
+D:\CSharpCourse\UsingBlock\UsingBlock\obj\Debug\net8.0\UsingBlock.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\UsingBlock\UsingBlock\obj\Debug\net8.0\UsingBlock.dll
+D:\CSharpCourse\UsingBlock\UsingBlock\obj\Debug\net8.0\refint\UsingBlock.dll
+D:\CSharpCourse\UsingBlock\UsingBlock\obj\Debug\net8.0\UsingBlock.pdb
+D:\CSharpCourse\UsingBlock\UsingBlock\obj\Debug\net8.0\UsingBlock.genruntimeconfig.cache
+D:\CSharpCourse\UsingBlock\UsingBlock\obj\Debug\net8.0\ref\UsingBlock.dll

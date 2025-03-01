@@ -1,0 +1,14 @@
+D:\CSharpCourse\ExpressaoCondicaoTernaria\ExpressaoCondicaoTernaria\bin\Debug\net8.0\ExpressaoCondicaoTernaria.exe
+D:\CSharpCourse\ExpressaoCondicaoTernaria\ExpressaoCondicaoTernaria\bin\Debug\net8.0\ExpressaoCondicaoTernaria.deps.json
+D:\CSharpCourse\ExpressaoCondicaoTernaria\ExpressaoCondicaoTernaria\bin\Debug\net8.0\ExpressaoCondicaoTernaria.runtimeconfig.json
+D:\CSharpCourse\ExpressaoCondicaoTernaria\ExpressaoCondicaoTernaria\bin\Debug\net8.0\ExpressaoCondicaoTernaria.dll
+D:\CSharpCourse\ExpressaoCondicaoTernaria\ExpressaoCondicaoTernaria\bin\Debug\net8.0\ExpressaoCondicaoTernaria.pdb
+D:\CSharpCourse\ExpressaoCondicaoTernaria\ExpressaoCondicaoTernaria\obj\Debug\net8.0\ExpressaoCondicaoTernaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\ExpressaoCondicaoTernaria\ExpressaoCondicaoTernaria\obj\Debug\net8.0\ExpressaoCondicaoTernaria.AssemblyInfoInputs.cache
+D:\CSharpCourse\ExpressaoCondicaoTernaria\ExpressaoCondicaoTernaria\obj\Debug\net8.0\ExpressaoCondicaoTernaria.AssemblyInfo.cs
+D:\CSharpCourse\ExpressaoCondicaoTernaria\ExpressaoCondicaoTernaria\obj\Debug\net8.0\ExpressaoCondicaoTernaria.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\ExpressaoCondicaoTernaria\ExpressaoCondicaoTernaria\obj\Debug\net8.0\ExpressaoCondicaoTernaria.dll
+D:\CSharpCourse\ExpressaoCondicaoTernaria\ExpressaoCondicaoTernaria\obj\Debug\net8.0\refint\ExpressaoCondicaoTernaria.dll
+D:\CSharpCourse\ExpressaoCondicaoTernaria\ExpressaoCondicaoTernaria\obj\Debug\net8.0\ExpressaoCondicaoTernaria.pdb
+D:\CSharpCourse\ExpressaoCondicaoTernaria\ExpressaoCondicaoTernaria\obj\Debug\net8.0\ExpressaoCondicaoTernaria.genruntimeconfig.cache
+D:\CSharpCourse\ExpressaoCondicaoTernaria\ExpressaoCondicaoTernaria\obj\Debug\net8.0\ref\ExpressaoCondicaoTernaria.dll

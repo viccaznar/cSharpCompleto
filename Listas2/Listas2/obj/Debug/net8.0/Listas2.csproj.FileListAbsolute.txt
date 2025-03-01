@@ -1,0 +1,14 @@
+D:\CSharpCourse\Listas2\Listas2\bin\Debug\net8.0\Listas2.exe
+D:\CSharpCourse\Listas2\Listas2\bin\Debug\net8.0\Listas2.deps.json
+D:\CSharpCourse\Listas2\Listas2\bin\Debug\net8.0\Listas2.runtimeconfig.json
+D:\CSharpCourse\Listas2\Listas2\bin\Debug\net8.0\Listas2.dll
+D:\CSharpCourse\Listas2\Listas2\bin\Debug\net8.0\Listas2.pdb
+D:\CSharpCourse\Listas2\Listas2\obj\Debug\net8.0\Listas2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\Listas2\Listas2\obj\Debug\net8.0\Listas2.AssemblyInfoInputs.cache
+D:\CSharpCourse\Listas2\Listas2\obj\Debug\net8.0\Listas2.AssemblyInfo.cs
+D:\CSharpCourse\Listas2\Listas2\obj\Debug\net8.0\Listas2.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\Listas2\Listas2\obj\Debug\net8.0\Listas2.dll
+D:\CSharpCourse\Listas2\Listas2\obj\Debug\net8.0\refint\Listas2.dll
+D:\CSharpCourse\Listas2\Listas2\obj\Debug\net8.0\Listas2.pdb
+D:\CSharpCourse\Listas2\Listas2\obj\Debug\net8.0\Listas2.genruntimeconfig.cache
+D:\CSharpCourse\Listas2\Listas2\obj\Debug\net8.0\ref\Listas2.dll

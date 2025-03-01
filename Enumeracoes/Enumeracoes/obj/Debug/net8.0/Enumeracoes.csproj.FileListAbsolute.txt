@@ -1,0 +1,14 @@
+D:\CSharpCourse\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.AssemblyInfoInputs.cache
+D:\CSharpCourse\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.AssemblyInfo.cs
+D:\CSharpCourse\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\Enumeracoes\Enumeracoes\bin\Debug\net8.0\Enumeracoes.exe
+D:\CSharpCourse\Enumeracoes\Enumeracoes\bin\Debug\net8.0\Enumeracoes.deps.json
+D:\CSharpCourse\Enumeracoes\Enumeracoes\bin\Debug\net8.0\Enumeracoes.runtimeconfig.json
+D:\CSharpCourse\Enumeracoes\Enumeracoes\bin\Debug\net8.0\Enumeracoes.dll
+D:\CSharpCourse\Enumeracoes\Enumeracoes\bin\Debug\net8.0\Enumeracoes.pdb
+D:\CSharpCourse\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.dll
+D:\CSharpCourse\Enumeracoes\Enumeracoes\obj\Debug\net8.0\refint\Enumeracoes.dll
+D:\CSharpCourse\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.pdb
+D:\CSharpCourse\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.genruntimeconfig.cache
+D:\CSharpCourse\Enumeracoes\Enumeracoes\obj\Debug\net8.0\ref\Enumeracoes.dll

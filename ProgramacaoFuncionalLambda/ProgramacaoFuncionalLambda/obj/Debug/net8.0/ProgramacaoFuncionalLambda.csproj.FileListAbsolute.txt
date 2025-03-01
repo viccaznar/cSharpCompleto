@@ -1,0 +1,14 @@
+D:\CSharpCourse\ProgramacaoFuncionalLambda\ProgramacaoFuncionalLambda\bin\Debug\net8.0\ProgramacaoFuncionalLambda.exe
+D:\CSharpCourse\ProgramacaoFuncionalLambda\ProgramacaoFuncionalLambda\bin\Debug\net8.0\ProgramacaoFuncionalLambda.deps.json
+D:\CSharpCourse\ProgramacaoFuncionalLambda\ProgramacaoFuncionalLambda\bin\Debug\net8.0\ProgramacaoFuncionalLambda.runtimeconfig.json
+D:\CSharpCourse\ProgramacaoFuncionalLambda\ProgramacaoFuncionalLambda\bin\Debug\net8.0\ProgramacaoFuncionalLambda.dll
+D:\CSharpCourse\ProgramacaoFuncionalLambda\ProgramacaoFuncionalLambda\bin\Debug\net8.0\ProgramacaoFuncionalLambda.pdb
+D:\CSharpCourse\ProgramacaoFuncionalLambda\ProgramacaoFuncionalLambda\obj\Debug\net8.0\ProgramacaoFuncionalLambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\ProgramacaoFuncionalLambda\ProgramacaoFuncionalLambda\obj\Debug\net8.0\ProgramacaoFuncionalLambda.AssemblyInfoInputs.cache
+D:\CSharpCourse\ProgramacaoFuncionalLambda\ProgramacaoFuncionalLambda\obj\Debug\net8.0\ProgramacaoFuncionalLambda.AssemblyInfo.cs
+D:\CSharpCourse\ProgramacaoFuncionalLambda\ProgramacaoFuncionalLambda\obj\Debug\net8.0\ProgramacaoFuncionalLambda.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\ProgramacaoFuncionalLambda\ProgramacaoFuncionalLambda\obj\Debug\net8.0\ProgramacaoFuncionalLambda.dll
+D:\CSharpCourse\ProgramacaoFuncionalLambda\ProgramacaoFuncionalLambda\obj\Debug\net8.0\refint\ProgramacaoFuncionalLambda.dll
+D:\CSharpCourse\ProgramacaoFuncionalLambda\ProgramacaoFuncionalLambda\obj\Debug\net8.0\ProgramacaoFuncionalLambda.pdb
+D:\CSharpCourse\ProgramacaoFuncionalLambda\ProgramacaoFuncionalLambda\obj\Debug\net8.0\ProgramacaoFuncionalLambda.genruntimeconfig.cache
+D:\CSharpCourse\ProgramacaoFuncionalLambda\ProgramacaoFuncionalLambda\obj\Debug\net8.0\ref\ProgramacaoFuncionalLambda.dll

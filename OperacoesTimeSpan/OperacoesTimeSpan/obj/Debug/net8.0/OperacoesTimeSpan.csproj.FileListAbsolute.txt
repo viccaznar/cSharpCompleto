@@ -1,0 +1,14 @@
+D:\CSharpCourse\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\net8.0\OperacoesTimeSpan.exe
+D:\CSharpCourse\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\net8.0\OperacoesTimeSpan.deps.json
+D:\CSharpCourse\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\net8.0\OperacoesTimeSpan.runtimeconfig.json
+D:\CSharpCourse\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\net8.0\OperacoesTimeSpan.dll
+D:\CSharpCourse\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\net8.0\OperacoesTimeSpan.pdb
+D:\CSharpCourse\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net8.0\OperacoesTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net8.0\OperacoesTimeSpan.AssemblyInfoInputs.cache
+D:\CSharpCourse\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net8.0\OperacoesTimeSpan.AssemblyInfo.cs
+D:\CSharpCourse\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net8.0\OperacoesTimeSpan.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net8.0\OperacoesTimeSpan.dll
+D:\CSharpCourse\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net8.0\refint\OperacoesTimeSpan.dll
+D:\CSharpCourse\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net8.0\OperacoesTimeSpan.pdb
+D:\CSharpCourse\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net8.0\OperacoesTimeSpan.genruntimeconfig.cache
+D:\CSharpCourse\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net8.0\ref\OperacoesTimeSpan.dll

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCourse\\HerancaMultipla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B583190B-51AE-4CB9-97E7-2FA4F2546934}|HerancaMultipla\\HerancaMultipla.csproj|d:\\csharpcourse\\herancamultipla\\herancamultipla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B583190B-51AE-4CB9-97E7-2FA4F2546934}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B583190B-51AE-4CB9-97E7-2FA4F2546934}|HerancaMultipla\\HerancaMultipla.csproj|d:\\csharpcourse\\herancamultipla\\herancamultipla\\devices\\combodevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B583190B-51AE-4CB9-97E7-2FA4F2546934}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\devices\\combodevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B583190B-51AE-4CB9-97E7-2FA4F2546934}|HerancaMultipla\\HerancaMultipla.csproj|d:\\csharpcourse\\herancamultipla\\herancamultipla\\devices\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B583190B-51AE-4CB9-97E7-2FA4F2546934}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\devices\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B583190B-51AE-4CB9-97E7-2FA4F2546934}|HerancaMultipla\\HerancaMultipla.csproj|d:\\csharpcourse\\herancamultipla\\herancamultipla\\devices\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B583190B-51AE-4CB9-97E7-2FA4F2546934}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\devices\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B583190B-51AE-4CB9-97E7-2FA4F2546934}|HerancaMultipla\\HerancaMultipla.csproj|d:\\csharpcourse\\herancamultipla\\herancamultipla\\devices\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B583190B-51AE-4CB9-97E7-2FA4F2546934}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\devices\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B583190B-51AE-4CB9-97E7-2FA4F2546934}|HerancaMultipla\\HerancaMultipla.csproj|d:\\csharpcourse\\herancamultipla\\herancamultipla\\devices\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B583190B-51AE-4CB9-97E7-2FA4F2546934}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\devices\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B583190B-51AE-4CB9-97E7-2FA4F2546934}|HerancaMultipla\\HerancaMultipla.csproj|d:\\csharpcourse\\herancamultipla\\herancamultipla\\devices\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B583190B-51AE-4CB9-97E7-2FA4F2546934}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\devices\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrinter.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\HerancaMultipla\\HerancaMultipla\\Devices\\IPrinter.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Devices\\IPrinter.cs",
+              "ToolTip": "D:\\CSharpCourse\\HerancaMultipla\\HerancaMultipla\\Devices\\IPrinter.cs",
+              "RelativeToolTip": "HerancaMultipla\\Devices\\IPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:14:30.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IScanner.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\HerancaMultipla\\HerancaMultipla\\Devices\\IScanner.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Devices\\IScanner.cs",
+              "ToolTip": "D:\\CSharpCourse\\HerancaMultipla\\HerancaMultipla\\Devices\\IScanner.cs",
+              "RelativeToolTip": "HerancaMultipla\\Devices\\IScanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:12:42.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComboDevice.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\HerancaMultipla\\HerancaMultipla\\Devices\\ComboDevice.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Devices\\ComboDevice.cs",
+              "ToolTip": "D:\\CSharpCourse\\HerancaMultipla\\HerancaMultipla\\Devices\\ComboDevice.cs",
+              "RelativeToolTip": "HerancaMultipla\\Devices\\ComboDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:09:52.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\HerancaMultipla\\HerancaMultipla\\Devices\\Printer.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Devices\\Printer.cs",
+              "ToolTip": "D:\\CSharpCourse\\HerancaMultipla\\HerancaMultipla\\Devices\\Printer.cs",
+              "RelativeToolTip": "HerancaMultipla\\Devices\\Printer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:59:50.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\HerancaMultipla\\HerancaMultipla\\Devices\\Device.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Devices\\Device.cs",
+              "ToolTip": "D:\\CSharpCourse\\HerancaMultipla\\HerancaMultipla\\Devices\\Device.cs",
+              "RelativeToolTip": "HerancaMultipla\\Devices\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:56:40.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scanner.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\HerancaMultipla\\HerancaMultipla\\Devices\\Scanner.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Devices\\Scanner.cs",
+              "ToolTip": "D:\\CSharpCourse\\HerancaMultipla\\HerancaMultipla\\Devices\\Scanner.cs",
+              "RelativeToolTip": "HerancaMultipla\\Devices\\Scanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:49:23.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\HerancaMultipla\\HerancaMultipla\\Program.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Program.cs",
+              "ToolTip": "D:\\CSharpCourse\\HerancaMultipla\\HerancaMultipla\\Program.cs",
+              "RelativeToolTip": "HerancaMultipla\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:43:35.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

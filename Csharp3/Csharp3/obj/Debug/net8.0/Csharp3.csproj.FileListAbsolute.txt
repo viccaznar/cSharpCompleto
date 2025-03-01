@@ -1,0 +1,14 @@
+D:\CSharpCourse\Csharp3\Csharp3\obj\Debug\net8.0\Csharp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\Csharp3\Csharp3\obj\Debug\net8.0\Csharp3.AssemblyInfoInputs.cache
+D:\CSharpCourse\Csharp3\Csharp3\obj\Debug\net8.0\Csharp3.AssemblyInfo.cs
+D:\CSharpCourse\Csharp3\Csharp3\obj\Debug\net8.0\Csharp3.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\Csharp3\Csharp3\bin\Debug\net8.0\Csharp3.exe
+D:\CSharpCourse\Csharp3\Csharp3\bin\Debug\net8.0\Csharp3.deps.json
+D:\CSharpCourse\Csharp3\Csharp3\bin\Debug\net8.0\Csharp3.runtimeconfig.json
+D:\CSharpCourse\Csharp3\Csharp3\bin\Debug\net8.0\Csharp3.dll
+D:\CSharpCourse\Csharp3\Csharp3\bin\Debug\net8.0\Csharp3.pdb
+D:\CSharpCourse\Csharp3\Csharp3\obj\Debug\net8.0\Csharp3.dll
+D:\CSharpCourse\Csharp3\Csharp3\obj\Debug\net8.0\refint\Csharp3.dll
+D:\CSharpCourse\Csharp3\Csharp3\obj\Debug\net8.0\Csharp3.pdb
+D:\CSharpCourse\Csharp3\Csharp3\obj\Debug\net8.0\Csharp3.genruntimeconfig.cache
+D:\CSharpCourse\Csharp3\Csharp3\obj\Debug\net8.0\ref\Csharp3.dll

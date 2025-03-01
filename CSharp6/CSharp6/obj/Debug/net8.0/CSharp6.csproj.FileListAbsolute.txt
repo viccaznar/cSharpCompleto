@@ -1,0 +1,14 @@
+D:\CSharpCourse\CSharp6\CSharp6\bin\Debug\net8.0\CSharp6.exe
+D:\CSharpCourse\CSharp6\CSharp6\bin\Debug\net8.0\CSharp6.deps.json
+D:\CSharpCourse\CSharp6\CSharp6\bin\Debug\net8.0\CSharp6.runtimeconfig.json
+D:\CSharpCourse\CSharp6\CSharp6\bin\Debug\net8.0\CSharp6.dll
+D:\CSharpCourse\CSharp6\CSharp6\bin\Debug\net8.0\CSharp6.pdb
+D:\CSharpCourse\CSharp6\CSharp6\obj\Debug\net8.0\CSharp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\CSharp6\CSharp6\obj\Debug\net8.0\CSharp6.AssemblyInfoInputs.cache
+D:\CSharpCourse\CSharp6\CSharp6\obj\Debug\net8.0\CSharp6.AssemblyInfo.cs
+D:\CSharpCourse\CSharp6\CSharp6\obj\Debug\net8.0\CSharp6.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\CSharp6\CSharp6\obj\Debug\net8.0\CSharp6.dll
+D:\CSharpCourse\CSharp6\CSharp6\obj\Debug\net8.0\refint\CSharp6.dll
+D:\CSharpCourse\CSharp6\CSharp6\obj\Debug\net8.0\CSharp6.pdb
+D:\CSharpCourse\CSharp6\CSharp6\obj\Debug\net8.0\CSharp6.genruntimeconfig.cache
+D:\CSharpCourse\CSharp6\CSharp6\obj\Debug\net8.0\ref\CSharp6.dll

@@ -1,0 +1,14 @@
+D:\CSharpCourse\ModificadorParams\ModificadorParams\bin\Debug\net8.0\ModificadorParams.exe
+D:\CSharpCourse\ModificadorParams\ModificadorParams\bin\Debug\net8.0\ModificadorParams.deps.json
+D:\CSharpCourse\ModificadorParams\ModificadorParams\bin\Debug\net8.0\ModificadorParams.runtimeconfig.json
+D:\CSharpCourse\ModificadorParams\ModificadorParams\bin\Debug\net8.0\ModificadorParams.dll
+D:\CSharpCourse\ModificadorParams\ModificadorParams\bin\Debug\net8.0\ModificadorParams.pdb
+D:\CSharpCourse\ModificadorParams\ModificadorParams\obj\Debug\net8.0\ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\ModificadorParams\ModificadorParams\obj\Debug\net8.0\ModificadorParams.AssemblyInfoInputs.cache
+D:\CSharpCourse\ModificadorParams\ModificadorParams\obj\Debug\net8.0\ModificadorParams.AssemblyInfo.cs
+D:\CSharpCourse\ModificadorParams\ModificadorParams\obj\Debug\net8.0\ModificadorParams.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\ModificadorParams\ModificadorParams\obj\Debug\net8.0\ModificadorParams.dll
+D:\CSharpCourse\ModificadorParams\ModificadorParams\obj\Debug\net8.0\refint\ModificadorParams.dll
+D:\CSharpCourse\ModificadorParams\ModificadorParams\obj\Debug\net8.0\ModificadorParams.pdb
+D:\CSharpCourse\ModificadorParams\ModificadorParams\obj\Debug\net8.0\ModificadorParams.genruntimeconfig.cache
+D:\CSharpCourse\ModificadorParams\ModificadorParams\obj\Debug\net8.0\ref\ModificadorParams.dll

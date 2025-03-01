@@ -1,0 +1,14 @@
+D:\CSharpCourse\Vetores1\Vetores1\bin\Debug\net8.0\Vetores1.exe
+D:\CSharpCourse\Vetores1\Vetores1\bin\Debug\net8.0\Vetores1.deps.json
+D:\CSharpCourse\Vetores1\Vetores1\bin\Debug\net8.0\Vetores1.runtimeconfig.json
+D:\CSharpCourse\Vetores1\Vetores1\bin\Debug\net8.0\Vetores1.dll
+D:\CSharpCourse\Vetores1\Vetores1\bin\Debug\net8.0\Vetores1.pdb
+D:\CSharpCourse\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.AssemblyInfoInputs.cache
+D:\CSharpCourse\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.AssemblyInfo.cs
+D:\CSharpCourse\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.dll
+D:\CSharpCourse\Vetores1\Vetores1\obj\Debug\net8.0\refint\Vetores1.dll
+D:\CSharpCourse\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.pdb
+D:\CSharpCourse\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.genruntimeconfig.cache
+D:\CSharpCourse\Vetores1\Vetores1\obj\Debug\net8.0\ref\Vetores1.dll

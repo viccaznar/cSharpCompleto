@@ -1,0 +1,14 @@
+D:\CSharpCourse\ExpressoesString\ExpressoesString\obj\Debug\net8.0\ExpressoesString.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\ExpressoesString\ExpressoesString\obj\Debug\net8.0\ExpressoesString.AssemblyInfoInputs.cache
+D:\CSharpCourse\ExpressoesString\ExpressoesString\obj\Debug\net8.0\ExpressoesString.AssemblyInfo.cs
+D:\CSharpCourse\ExpressoesString\ExpressoesString\obj\Debug\net8.0\ExpressoesString.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\ExpressoesString\ExpressoesString\bin\Debug\net8.0\ExpressoesString.exe
+D:\CSharpCourse\ExpressoesString\ExpressoesString\bin\Debug\net8.0\ExpressoesString.deps.json
+D:\CSharpCourse\ExpressoesString\ExpressoesString\bin\Debug\net8.0\ExpressoesString.runtimeconfig.json
+D:\CSharpCourse\ExpressoesString\ExpressoesString\bin\Debug\net8.0\ExpressoesString.dll
+D:\CSharpCourse\ExpressoesString\ExpressoesString\bin\Debug\net8.0\ExpressoesString.pdb
+D:\CSharpCourse\ExpressoesString\ExpressoesString\obj\Debug\net8.0\ExpressoesString.dll
+D:\CSharpCourse\ExpressoesString\ExpressoesString\obj\Debug\net8.0\refint\ExpressoesString.dll
+D:\CSharpCourse\ExpressoesString\ExpressoesString\obj\Debug\net8.0\ExpressoesString.pdb
+D:\CSharpCourse\ExpressoesString\ExpressoesString\obj\Debug\net8.0\ExpressoesString.genruntimeconfig.cache
+D:\CSharpCourse\ExpressoesString\ExpressoesString\obj\Debug\net8.0\ref\ExpressoesString.dll

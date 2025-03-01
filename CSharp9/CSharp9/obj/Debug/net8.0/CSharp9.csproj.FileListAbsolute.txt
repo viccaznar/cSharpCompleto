@@ -1,0 +1,14 @@
+D:\CSharpCourse\CSharp9\CSharp9\bin\Debug\net8.0\CSharp9.exe
+D:\CSharpCourse\CSharp9\CSharp9\bin\Debug\net8.0\CSharp9.deps.json
+D:\CSharpCourse\CSharp9\CSharp9\bin\Debug\net8.0\CSharp9.runtimeconfig.json
+D:\CSharpCourse\CSharp9\CSharp9\bin\Debug\net8.0\CSharp9.dll
+D:\CSharpCourse\CSharp9\CSharp9\bin\Debug\net8.0\CSharp9.pdb
+D:\CSharpCourse\CSharp9\CSharp9\obj\Debug\net8.0\CSharp9.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\CSharp9\CSharp9\obj\Debug\net8.0\CSharp9.AssemblyInfoInputs.cache
+D:\CSharpCourse\CSharp9\CSharp9\obj\Debug\net8.0\CSharp9.AssemblyInfo.cs
+D:\CSharpCourse\CSharp9\CSharp9\obj\Debug\net8.0\CSharp9.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\CSharp9\CSharp9\obj\Debug\net8.0\CSharp9.dll
+D:\CSharpCourse\CSharp9\CSharp9\obj\Debug\net8.0\refint\CSharp9.dll
+D:\CSharpCourse\CSharp9\CSharp9\obj\Debug\net8.0\CSharp9.pdb
+D:\CSharpCourse\CSharp9\CSharp9\obj\Debug\net8.0\CSharp9.genruntimeconfig.cache
+D:\CSharpCourse\CSharp9\CSharp9\obj\Debug\net8.0\ref\CSharp9.dll

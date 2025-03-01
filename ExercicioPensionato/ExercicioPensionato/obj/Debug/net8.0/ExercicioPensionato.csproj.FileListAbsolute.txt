@@ -1,0 +1,14 @@
+D:\CSharpCourse\ExercicioPensionato\ExercicioPensionato\bin\Debug\net8.0\ExercicioPensionato.exe
+D:\CSharpCourse\ExercicioPensionato\ExercicioPensionato\bin\Debug\net8.0\ExercicioPensionato.deps.json
+D:\CSharpCourse\ExercicioPensionato\ExercicioPensionato\bin\Debug\net8.0\ExercicioPensionato.runtimeconfig.json
+D:\CSharpCourse\ExercicioPensionato\ExercicioPensionato\bin\Debug\net8.0\ExercicioPensionato.dll
+D:\CSharpCourse\ExercicioPensionato\ExercicioPensionato\bin\Debug\net8.0\ExercicioPensionato.pdb
+D:\CSharpCourse\ExercicioPensionato\ExercicioPensionato\obj\Debug\net8.0\ExercicioPensionato.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\ExercicioPensionato\ExercicioPensionato\obj\Debug\net8.0\ExercicioPensionato.AssemblyInfoInputs.cache
+D:\CSharpCourse\ExercicioPensionato\ExercicioPensionato\obj\Debug\net8.0\ExercicioPensionato.AssemblyInfo.cs
+D:\CSharpCourse\ExercicioPensionato\ExercicioPensionato\obj\Debug\net8.0\ExercicioPensionato.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\ExercicioPensionato\ExercicioPensionato\obj\Debug\net8.0\ExercicioPensionato.dll
+D:\CSharpCourse\ExercicioPensionato\ExercicioPensionato\obj\Debug\net8.0\refint\ExercicioPensionato.dll
+D:\CSharpCourse\ExercicioPensionato\ExercicioPensionato\obj\Debug\net8.0\ExercicioPensionato.pdb
+D:\CSharpCourse\ExercicioPensionato\ExercicioPensionato\obj\Debug\net8.0\ExercicioPensionato.genruntimeconfig.cache
+D:\CSharpCourse\ExercicioPensionato\ExercicioPensionato\obj\Debug\net8.0\ref\ExercicioPensionato.dll

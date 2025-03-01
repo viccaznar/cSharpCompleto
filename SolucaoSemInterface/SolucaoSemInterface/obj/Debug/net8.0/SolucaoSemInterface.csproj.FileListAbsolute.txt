@@ -1,0 +1,14 @@
+D:\CSharpCourse\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\net8.0\SolucaoSemInterface.exe
+D:\CSharpCourse\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\net8.0\SolucaoSemInterface.deps.json
+D:\CSharpCourse\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\net8.0\SolucaoSemInterface.runtimeconfig.json
+D:\CSharpCourse\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\net8.0\SolucaoSemInterface.dll
+D:\CSharpCourse\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\net8.0\SolucaoSemInterface.pdb
+D:\CSharpCourse\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\net8.0\SolucaoSemInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\net8.0\SolucaoSemInterface.AssemblyInfoInputs.cache
+D:\CSharpCourse\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\net8.0\SolucaoSemInterface.AssemblyInfo.cs
+D:\CSharpCourse\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\net8.0\SolucaoSemInterface.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\net8.0\SolucaoSemInterface.dll
+D:\CSharpCourse\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\net8.0\refint\SolucaoSemInterface.dll
+D:\CSharpCourse\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\net8.0\SolucaoSemInterface.pdb
+D:\CSharpCourse\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\net8.0\SolucaoSemInterface.genruntimeconfig.cache
+D:\CSharpCourse\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\net8.0\ref\SolucaoSemInterface.dll

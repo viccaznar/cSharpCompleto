@@ -1,0 +1,14 @@
+D:\CSharpCourse\ExercicioPost\ExercicioPost\bin\Debug\net8.0\ExercicioPost.exe
+D:\CSharpCourse\ExercicioPost\ExercicioPost\bin\Debug\net8.0\ExercicioPost.deps.json
+D:\CSharpCourse\ExercicioPost\ExercicioPost\bin\Debug\net8.0\ExercicioPost.runtimeconfig.json
+D:\CSharpCourse\ExercicioPost\ExercicioPost\bin\Debug\net8.0\ExercicioPost.dll
+D:\CSharpCourse\ExercicioPost\ExercicioPost\bin\Debug\net8.0\ExercicioPost.pdb
+D:\CSharpCourse\ExercicioPost\ExercicioPost\obj\Debug\net8.0\ExercicioPost.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\ExercicioPost\ExercicioPost\obj\Debug\net8.0\ExercicioPost.AssemblyInfoInputs.cache
+D:\CSharpCourse\ExercicioPost\ExercicioPost\obj\Debug\net8.0\ExercicioPost.AssemblyInfo.cs
+D:\CSharpCourse\ExercicioPost\ExercicioPost\obj\Debug\net8.0\ExercicioPost.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\ExercicioPost\ExercicioPost\obj\Debug\net8.0\ExercicioPost.dll
+D:\CSharpCourse\ExercicioPost\ExercicioPost\obj\Debug\net8.0\refint\ExercicioPost.dll
+D:\CSharpCourse\ExercicioPost\ExercicioPost\obj\Debug\net8.0\ExercicioPost.pdb
+D:\CSharpCourse\ExercicioPost\ExercicioPost\obj\Debug\net8.0\ExercicioPost.genruntimeconfig.cache
+D:\CSharpCourse\ExercicioPost\ExercicioPost\obj\Debug\net8.0\ref\ExercicioPost.dll

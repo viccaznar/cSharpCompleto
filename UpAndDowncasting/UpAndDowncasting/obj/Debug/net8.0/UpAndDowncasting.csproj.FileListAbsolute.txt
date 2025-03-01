@@ -1,0 +1,14 @@
+D:\CSharpCourse\UpAndDowncasting\UpAndDowncasting\bin\Debug\net8.0\UpAndDowncasting.exe
+D:\CSharpCourse\UpAndDowncasting\UpAndDowncasting\bin\Debug\net8.0\UpAndDowncasting.deps.json
+D:\CSharpCourse\UpAndDowncasting\UpAndDowncasting\bin\Debug\net8.0\UpAndDowncasting.runtimeconfig.json
+D:\CSharpCourse\UpAndDowncasting\UpAndDowncasting\bin\Debug\net8.0\UpAndDowncasting.dll
+D:\CSharpCourse\UpAndDowncasting\UpAndDowncasting\bin\Debug\net8.0\UpAndDowncasting.pdb
+D:\CSharpCourse\UpAndDowncasting\UpAndDowncasting\obj\Debug\net8.0\UpAndDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\UpAndDowncasting\UpAndDowncasting\obj\Debug\net8.0\UpAndDowncasting.AssemblyInfoInputs.cache
+D:\CSharpCourse\UpAndDowncasting\UpAndDowncasting\obj\Debug\net8.0\UpAndDowncasting.AssemblyInfo.cs
+D:\CSharpCourse\UpAndDowncasting\UpAndDowncasting\obj\Debug\net8.0\UpAndDowncasting.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\UpAndDowncasting\UpAndDowncasting\obj\Debug\net8.0\UpAndDowncasting.dll
+D:\CSharpCourse\UpAndDowncasting\UpAndDowncasting\obj\Debug\net8.0\refint\UpAndDowncasting.dll
+D:\CSharpCourse\UpAndDowncasting\UpAndDowncasting\obj\Debug\net8.0\UpAndDowncasting.pdb
+D:\CSharpCourse\UpAndDowncasting\UpAndDowncasting\obj\Debug\net8.0\UpAndDowncasting.genruntimeconfig.cache
+D:\CSharpCourse\UpAndDowncasting\UpAndDowncasting\obj\Debug\net8.0\ref\UpAndDowncasting.dll

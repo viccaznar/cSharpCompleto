@@ -1,0 +1,14 @@
+D:\CSharpCourse\LacoForEach\LacoForEach\bin\Debug\net8.0\LacoForEach.exe
+D:\CSharpCourse\LacoForEach\LacoForEach\bin\Debug\net8.0\LacoForEach.deps.json
+D:\CSharpCourse\LacoForEach\LacoForEach\bin\Debug\net8.0\LacoForEach.runtimeconfig.json
+D:\CSharpCourse\LacoForEach\LacoForEach\bin\Debug\net8.0\LacoForEach.dll
+D:\CSharpCourse\LacoForEach\LacoForEach\bin\Debug\net8.0\LacoForEach.pdb
+D:\CSharpCourse\LacoForEach\LacoForEach\obj\Debug\net8.0\LacoForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\LacoForEach\LacoForEach\obj\Debug\net8.0\LacoForEach.AssemblyInfoInputs.cache
+D:\CSharpCourse\LacoForEach\LacoForEach\obj\Debug\net8.0\LacoForEach.AssemblyInfo.cs
+D:\CSharpCourse\LacoForEach\LacoForEach\obj\Debug\net8.0\LacoForEach.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\LacoForEach\LacoForEach\obj\Debug\net8.0\LacoForEach.dll
+D:\CSharpCourse\LacoForEach\LacoForEach\obj\Debug\net8.0\refint\LacoForEach.dll
+D:\CSharpCourse\LacoForEach\LacoForEach\obj\Debug\net8.0\LacoForEach.pdb
+D:\CSharpCourse\LacoForEach\LacoForEach\obj\Debug\net8.0\LacoForEach.genruntimeconfig.cache
+D:\CSharpCourse\LacoForEach\LacoForEach\obj\Debug\net8.0\ref\LacoForEach.dll

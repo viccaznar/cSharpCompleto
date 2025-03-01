@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCourse\\HashCompararIgualdade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA4BED-CD33-41B6-9A2C-585F32C12937}|HashCompararIgualdade\\HashCompararIgualdade.csproj|d:\\csharpcourse\\hashcompararigualdade\\hashcompararigualdade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA4BED-CD33-41B6-9A2C-585F32C12937}|HashCompararIgualdade\\HashCompararIgualdade.csproj|solutionrelative:hashcompararigualdade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA4BED-CD33-41B6-9A2C-585F32C12937}|HashCompararIgualdade\\HashCompararIgualdade.csproj|d:\\csharpcourse\\hashcompararigualdade\\hashcompararigualdade\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA4BED-CD33-41B6-9A2C-585F32C12937}|HashCompararIgualdade\\HashCompararIgualdade.csproj|solutionrelative:hashcompararigualdade\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA4BED-CD33-41B6-9A2C-585F32C12937}|HashCompararIgualdade\\HashCompararIgualdade.csproj|d:\\csharpcourse\\hashcompararigualdade\\hashcompararigualdade\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA4BED-CD33-41B6-9A2C-585F32C12937}|HashCompararIgualdade\\HashCompararIgualdade.csproj|solutionrelative:hashcompararigualdade\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\HashCompararIgualdade\\HashCompararIgualdade\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "HashCompararIgualdade\\Entities\\Product.cs",
+              "ToolTip": "D:\\CSharpCourse\\HashCompararIgualdade\\HashCompararIgualdade\\Entities\\Product.cs",
+              "RelativeToolTip": "HashCompararIgualdade\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:50:21.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\HashCompararIgualdade\\HashCompararIgualdade\\Entities\\Point.cs",
+              "RelativeDocumentMoniker": "HashCompararIgualdade\\Entities\\Point.cs",
+              "ToolTip": "D:\\CSharpCourse\\HashCompararIgualdade\\HashCompararIgualdade\\Entities\\Point.cs",
+              "RelativeToolTip": "HashCompararIgualdade\\Entities\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:47:47.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\HashCompararIgualdade\\HashCompararIgualdade\\Program.cs",
+              "RelativeDocumentMoniker": "HashCompararIgualdade\\Program.cs",
+              "ToolTip": "D:\\CSharpCourse\\HashCompararIgualdade\\HashCompararIgualdade\\Program.cs*",
+              "RelativeToolTip": "HashCompararIgualdade\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:42:16.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

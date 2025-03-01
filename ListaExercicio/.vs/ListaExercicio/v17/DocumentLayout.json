@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCourse\\ListaExercicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFC140E-8924-4096-A27E-383052B11A4B}|ListaExercicio\\ListaExercicio.csproj|d:\\csharpcourse\\listaexercicio\\listaexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFC140E-8924-4096-A27E-383052B11A4B}|ListaExercicio\\ListaExercicio.csproj|solutionrelative:listaexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFC140E-8924-4096-A27E-383052B11A4B}|ListaExercicio\\ListaExercicio.csproj|d:\\csharpcourse\\listaexercicio\\listaexercicio\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFC140E-8924-4096-A27E-383052B11A4B}|ListaExercicio\\ListaExercicio.csproj|solutionrelative:listaexercicio\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\ListaExercicio\\ListaExercicio\\Employee.cs",
+              "RelativeDocumentMoniker": "ListaExercicio\\Employee.cs",
+              "ToolTip": "D:\\CSharpCourse\\ListaExercicio\\ListaExercicio\\Employee.cs",
+              "RelativeToolTip": "ListaExercicio\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:22:25.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\ListaExercicio\\ListaExercicio\\Program.cs",
+              "RelativeDocumentMoniker": "ListaExercicio\\Program.cs",
+              "ToolTip": "D:\\CSharpCourse\\ListaExercicio\\ListaExercicio\\Program.cs",
+              "RelativeToolTip": "ListaExercicio\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:18:45.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

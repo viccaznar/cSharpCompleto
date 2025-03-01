@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCourse\\Listas1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7A8F1C-C51C-4DAF-B6C7-4F629475212A}|Listas1\\Listas1.csproj|d:\\csharpcourse\\listas1\\listas1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7A8F1C-C51C-4DAF-B6C7-4F629475212A}|Listas1\\Listas1.csproj|solutionrelative:listas1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\Listas1\\Listas1\\Program.cs",
+              "RelativeDocumentMoniker": "Listas1\\Program.cs",
+              "ToolTip": "D:\\CSharpCourse\\Listas1\\Listas1\\Program.cs",
+              "RelativeToolTip": "Listas1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:46:58.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

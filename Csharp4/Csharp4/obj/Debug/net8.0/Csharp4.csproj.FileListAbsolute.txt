@@ -1,0 +1,14 @@
+D:\CSharpCourse\Csharp4\Csharp4\bin\Debug\net8.0\Csharp4.exe
+D:\CSharpCourse\Csharp4\Csharp4\bin\Debug\net8.0\Csharp4.deps.json
+D:\CSharpCourse\Csharp4\Csharp4\bin\Debug\net8.0\Csharp4.runtimeconfig.json
+D:\CSharpCourse\Csharp4\Csharp4\bin\Debug\net8.0\Csharp4.dll
+D:\CSharpCourse\Csharp4\Csharp4\bin\Debug\net8.0\Csharp4.pdb
+D:\CSharpCourse\Csharp4\Csharp4\obj\Debug\net8.0\Csharp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\Csharp4\Csharp4\obj\Debug\net8.0\Csharp4.AssemblyInfoInputs.cache
+D:\CSharpCourse\Csharp4\Csharp4\obj\Debug\net8.0\Csharp4.AssemblyInfo.cs
+D:\CSharpCourse\Csharp4\Csharp4\obj\Debug\net8.0\Csharp4.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\Csharp4\Csharp4\obj\Debug\net8.0\Csharp4.dll
+D:\CSharpCourse\Csharp4\Csharp4\obj\Debug\net8.0\refint\Csharp4.dll
+D:\CSharpCourse\Csharp4\Csharp4\obj\Debug\net8.0\Csharp4.pdb
+D:\CSharpCourse\Csharp4\Csharp4\obj\Debug\net8.0\Csharp4.genruntimeconfig.cache
+D:\CSharpCourse\Csharp4\Csharp4\obj\Debug\net8.0\ref\Csharp4.dll

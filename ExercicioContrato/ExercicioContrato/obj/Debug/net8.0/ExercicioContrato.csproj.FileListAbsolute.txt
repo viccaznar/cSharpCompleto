@@ -1,0 +1,14 @@
+D:\CSharpCourse\ExercicioContrato\ExercicioContrato\bin\Debug\net8.0\ExercicioContrato.exe
+D:\CSharpCourse\ExercicioContrato\ExercicioContrato\bin\Debug\net8.0\ExercicioContrato.deps.json
+D:\CSharpCourse\ExercicioContrato\ExercicioContrato\bin\Debug\net8.0\ExercicioContrato.runtimeconfig.json
+D:\CSharpCourse\ExercicioContrato\ExercicioContrato\bin\Debug\net8.0\ExercicioContrato.dll
+D:\CSharpCourse\ExercicioContrato\ExercicioContrato\bin\Debug\net8.0\ExercicioContrato.pdb
+D:\CSharpCourse\ExercicioContrato\ExercicioContrato\obj\Debug\net8.0\ExercicioContrato.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\ExercicioContrato\ExercicioContrato\obj\Debug\net8.0\ExercicioContrato.AssemblyInfoInputs.cache
+D:\CSharpCourse\ExercicioContrato\ExercicioContrato\obj\Debug\net8.0\ExercicioContrato.AssemblyInfo.cs
+D:\CSharpCourse\ExercicioContrato\ExercicioContrato\obj\Debug\net8.0\ExercicioContrato.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\ExercicioContrato\ExercicioContrato\obj\Debug\net8.0\ExercicioContrato.dll
+D:\CSharpCourse\ExercicioContrato\ExercicioContrato\obj\Debug\net8.0\refint\ExercicioContrato.dll
+D:\CSharpCourse\ExercicioContrato\ExercicioContrato\obj\Debug\net8.0\ExercicioContrato.pdb
+D:\CSharpCourse\ExercicioContrato\ExercicioContrato\obj\Debug\net8.0\ExercicioContrato.genruntimeconfig.cache
+D:\CSharpCourse\ExercicioContrato\ExercicioContrato\obj\Debug\net8.0\ref\ExercicioContrato.dll

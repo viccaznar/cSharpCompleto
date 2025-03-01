@@ -1,0 +1,14 @@
+D:\CSharpCourse\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\bin\Debug\net8.0\ExercicioMetodoAbstrato.exe
+D:\CSharpCourse\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\bin\Debug\net8.0\ExercicioMetodoAbstrato.deps.json
+D:\CSharpCourse\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\bin\Debug\net8.0\ExercicioMetodoAbstrato.runtimeconfig.json
+D:\CSharpCourse\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\bin\Debug\net8.0\ExercicioMetodoAbstrato.dll
+D:\CSharpCourse\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\bin\Debug\net8.0\ExercicioMetodoAbstrato.pdb
+D:\CSharpCourse\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\obj\Debug\net8.0\ExercicioMetodoAbstrato.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\obj\Debug\net8.0\ExercicioMetodoAbstrato.AssemblyInfoInputs.cache
+D:\CSharpCourse\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\obj\Debug\net8.0\ExercicioMetodoAbstrato.AssemblyInfo.cs
+D:\CSharpCourse\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\obj\Debug\net8.0\ExercicioMetodoAbstrato.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\obj\Debug\net8.0\ExercicioMetodoAbstrato.dll
+D:\CSharpCourse\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\obj\Debug\net8.0\refint\ExercicioMetodoAbstrato.dll
+D:\CSharpCourse\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\obj\Debug\net8.0\ExercicioMetodoAbstrato.pdb
+D:\CSharpCourse\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\obj\Debug\net8.0\ExercicioMetodoAbstrato.genruntimeconfig.cache
+D:\CSharpCourse\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\obj\Debug\net8.0\ref\ExercicioMetodoAbstrato.dll

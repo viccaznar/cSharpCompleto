@@ -1,0 +1,14 @@
+D:\CSharpCourse\MatrizProblemaExemplo\MatrizProblemaExemplo\bin\Debug\net8.0\MatrizProblemaExemplo.exe
+D:\CSharpCourse\MatrizProblemaExemplo\MatrizProblemaExemplo\bin\Debug\net8.0\MatrizProblemaExemplo.deps.json
+D:\CSharpCourse\MatrizProblemaExemplo\MatrizProblemaExemplo\bin\Debug\net8.0\MatrizProblemaExemplo.runtimeconfig.json
+D:\CSharpCourse\MatrizProblemaExemplo\MatrizProblemaExemplo\bin\Debug\net8.0\MatrizProblemaExemplo.dll
+D:\CSharpCourse\MatrizProblemaExemplo\MatrizProblemaExemplo\bin\Debug\net8.0\MatrizProblemaExemplo.pdb
+D:\CSharpCourse\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net8.0\MatrizProblemaExemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net8.0\MatrizProblemaExemplo.AssemblyInfoInputs.cache
+D:\CSharpCourse\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net8.0\MatrizProblemaExemplo.AssemblyInfo.cs
+D:\CSharpCourse\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net8.0\MatrizProblemaExemplo.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net8.0\MatrizProblemaExemplo.dll
+D:\CSharpCourse\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net8.0\refint\MatrizProblemaExemplo.dll
+D:\CSharpCourse\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net8.0\MatrizProblemaExemplo.pdb
+D:\CSharpCourse\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net8.0\MatrizProblemaExemplo.genruntimeconfig.cache
+D:\CSharpCourse\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net8.0\ref\MatrizProblemaExemplo.dll

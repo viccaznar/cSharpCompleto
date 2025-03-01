@@ -1,0 +1,14 @@
+D:\CSharpCourse\IntroducaoDelegates\IntroducaoDelegates\bin\Debug\net8.0\IntroducaoDelegates.exe
+D:\CSharpCourse\IntroducaoDelegates\IntroducaoDelegates\bin\Debug\net8.0\IntroducaoDelegates.deps.json
+D:\CSharpCourse\IntroducaoDelegates\IntroducaoDelegates\bin\Debug\net8.0\IntroducaoDelegates.runtimeconfig.json
+D:\CSharpCourse\IntroducaoDelegates\IntroducaoDelegates\bin\Debug\net8.0\IntroducaoDelegates.dll
+D:\CSharpCourse\IntroducaoDelegates\IntroducaoDelegates\bin\Debug\net8.0\IntroducaoDelegates.pdb
+D:\CSharpCourse\IntroducaoDelegates\IntroducaoDelegates\obj\Debug\net8.0\IntroducaoDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\IntroducaoDelegates\IntroducaoDelegates\obj\Debug\net8.0\IntroducaoDelegates.AssemblyInfoInputs.cache
+D:\CSharpCourse\IntroducaoDelegates\IntroducaoDelegates\obj\Debug\net8.0\IntroducaoDelegates.AssemblyInfo.cs
+D:\CSharpCourse\IntroducaoDelegates\IntroducaoDelegates\obj\Debug\net8.0\IntroducaoDelegates.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\IntroducaoDelegates\IntroducaoDelegates\obj\Debug\net8.0\IntroducaoDelegates.dll
+D:\CSharpCourse\IntroducaoDelegates\IntroducaoDelegates\obj\Debug\net8.0\refint\IntroducaoDelegates.dll
+D:\CSharpCourse\IntroducaoDelegates\IntroducaoDelegates\obj\Debug\net8.0\IntroducaoDelegates.pdb
+D:\CSharpCourse\IntroducaoDelegates\IntroducaoDelegates\obj\Debug\net8.0\IntroducaoDelegates.genruntimeconfig.cache
+D:\CSharpCourse\IntroducaoDelegates\IntroducaoDelegates\obj\Debug\net8.0\ref\IntroducaoDelegates.dll

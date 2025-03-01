@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCourse\\IntroducaoDelegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7D9778-D4FD-4713-AB37-D66C340B4B07}|IntroducaoDelegates\\IntroducaoDelegates.csproj|d:\\csharpcourse\\introducaodelegates\\introducaodelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7D9778-D4FD-4713-AB37-D66C340B4B07}|IntroducaoDelegates\\IntroducaoDelegates.csproj|solutionrelative:introducaodelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7D9778-D4FD-4713-AB37-D66C340B4B07}|IntroducaoDelegates\\IntroducaoDelegates.csproj|d:\\csharpcourse\\introducaodelegates\\introducaodelegates\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7D9778-D4FD-4713-AB37-D66C340B4B07}|IntroducaoDelegates\\IntroducaoDelegates.csproj|solutionrelative:introducaodelegates\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\IntroducaoDelegates\\IntroducaoDelegates\\Services\\CalculationService.cs",
+              "RelativeDocumentMoniker": "IntroducaoDelegates\\Services\\CalculationService.cs",
+              "ToolTip": "D:\\CSharpCourse\\IntroducaoDelegates\\IntroducaoDelegates\\Services\\CalculationService.cs",
+              "RelativeToolTip": "IntroducaoDelegates\\Services\\CalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:33:07.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\IntroducaoDelegates\\IntroducaoDelegates\\Program.cs",
+              "RelativeDocumentMoniker": "IntroducaoDelegates\\Program.cs",
+              "ToolTip": "D:\\CSharpCourse\\IntroducaoDelegates\\IntroducaoDelegates\\Program.cs",
+              "RelativeToolTip": "IntroducaoDelegates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:31:10.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

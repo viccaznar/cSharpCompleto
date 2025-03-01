@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCourse\\Enumeracoes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9046F8-45C7-47B2-AEBC-5BACF5252486}|Enumeracoes\\Enumeracoes.csproj|d:\\csharpcourse\\enumeracoes\\enumeracoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9046F8-45C7-47B2-AEBC-5BACF5252486}|Enumeracoes\\Enumeracoes.csproj|solutionrelative:enumeracoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9046F8-45C7-47B2-AEBC-5BACF5252486}|Enumeracoes\\Enumeracoes.csproj|d:\\csharpcourse\\enumeracoes\\enumeracoes\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9046F8-45C7-47B2-AEBC-5BACF5252486}|Enumeracoes\\Enumeracoes.csproj|solutionrelative:enumeracoes\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9046F8-45C7-47B2-AEBC-5BACF5252486}|Enumeracoes\\Enumeracoes.csproj|d:\\csharpcourse\\enumeracoes\\enumeracoes\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9046F8-45C7-47B2-AEBC-5BACF5252486}|Enumeracoes\\Enumeracoes.csproj|solutionrelative:enumeracoes\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\Enumeracoes\\Enumeracoes\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Enumeracoes\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "D:\\CSharpCourse\\Enumeracoes\\Enumeracoes\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Enumeracoes\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:45:57.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\Enumeracoes\\Enumeracoes\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Enumeracoes\\Entities\\Order.cs",
+              "ToolTip": "D:\\CSharpCourse\\Enumeracoes\\Enumeracoes\\Entities\\Order.cs",
+              "RelativeToolTip": "Enumeracoes\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:42:54.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCourse\\Enumeracoes\\Enumeracoes\\Program.cs",
+              "RelativeDocumentMoniker": "Enumeracoes\\Program.cs",
+              "ToolTip": "D:\\CSharpCourse\\Enumeracoes\\Enumeracoes\\Program.cs",
+              "RelativeToolTip": "Enumeracoes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:37:10.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

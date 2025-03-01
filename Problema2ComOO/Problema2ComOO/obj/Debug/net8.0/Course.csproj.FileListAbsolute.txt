@@ -1,0 +1,14 @@
+D:\CSharpCourse\Problema2ComOO\Problema2ComOO\bin\Debug\net8.0\Course.exe
+D:\CSharpCourse\Problema2ComOO\Problema2ComOO\bin\Debug\net8.0\Course.deps.json
+D:\CSharpCourse\Problema2ComOO\Problema2ComOO\bin\Debug\net8.0\Course.runtimeconfig.json
+D:\CSharpCourse\Problema2ComOO\Problema2ComOO\bin\Debug\net8.0\Course.dll
+D:\CSharpCourse\Problema2ComOO\Problema2ComOO\bin\Debug\net8.0\Course.pdb
+D:\CSharpCourse\Problema2ComOO\Problema2ComOO\obj\Debug\net8.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\Problema2ComOO\Problema2ComOO\obj\Debug\net8.0\Course.AssemblyInfoInputs.cache
+D:\CSharpCourse\Problema2ComOO\Problema2ComOO\obj\Debug\net8.0\Course.AssemblyInfo.cs
+D:\CSharpCourse\Problema2ComOO\Problema2ComOO\obj\Debug\net8.0\Course.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\Problema2ComOO\Problema2ComOO\obj\Debug\net8.0\Course.dll
+D:\CSharpCourse\Problema2ComOO\Problema2ComOO\obj\Debug\net8.0\refint\Course.dll
+D:\CSharpCourse\Problema2ComOO\Problema2ComOO\obj\Debug\net8.0\Course.pdb
+D:\CSharpCourse\Problema2ComOO\Problema2ComOO\obj\Debug\net8.0\Course.genruntimeconfig.cache
+D:\CSharpCourse\Problema2ComOO\Problema2ComOO\obj\Debug\net8.0\ref\Course.dll

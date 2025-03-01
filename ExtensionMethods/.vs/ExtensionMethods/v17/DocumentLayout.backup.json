@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1989\\source\\repos\\ExtensionMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7594B0EF-CFE5-4D06-82D9-098AF91053CC}|ExtensionMethods\\ExtensionMethods.csproj|c:\\users\\1989\\source\\repos\\extensionmethods\\extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7594B0EF-CFE5-4D06-82D9-098AF91053CC}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7594B0EF-CFE5-4D06-82D9-098AF91053CC}|ExtensionMethods\\ExtensionMethods.csproj|c:\\users\\1989\\source\\repos\\extensionmethods\\extensionmethods\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7594B0EF-CFE5-4D06-82D9-098AF91053CC}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7594B0EF-CFE5-4D06-82D9-098AF91053CC}|ExtensionMethods\\ExtensionMethods.csproj|c:\\users\\1989\\source\\repos\\extensionmethods\\extensionmethods\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7594B0EF-CFE5-4D06-82D9-098AF91053CC}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\1989\\source\\repos\\ExtensionMethods\\ExtensionMethods\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\1989\\source\\repos\\ExtensionMethods\\ExtensionMethods\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "ExtensionMethods\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:39:25.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateTimeExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\1989\\source\\repos\\ExtensionMethods\\ExtensionMethods\\Extensions\\DateTimeExtensions.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\Extensions\\DateTimeExtensions.cs",
+              "ToolTip": "C:\\Users\\1989\\source\\repos\\ExtensionMethods\\ExtensionMethods\\Extensions\\DateTimeExtensions.cs",
+              "RelativeToolTip": "ExtensionMethods\\Extensions\\DateTimeExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:30:52.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1989\\source\\repos\\ExtensionMethods\\ExtensionMethods\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\1989\\source\\repos\\ExtensionMethods\\ExtensionMethods\\Program.cs",
+              "RelativeToolTip": "ExtensionMethods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:19:43.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

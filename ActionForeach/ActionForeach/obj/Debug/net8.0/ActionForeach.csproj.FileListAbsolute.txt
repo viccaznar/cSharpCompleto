@@ -1,0 +1,14 @@
+D:\CSharpCourse\ActionForeach\ActionForeach\bin\Debug\net8.0\ActionForeach.exe
+D:\CSharpCourse\ActionForeach\ActionForeach\bin\Debug\net8.0\ActionForeach.deps.json
+D:\CSharpCourse\ActionForeach\ActionForeach\bin\Debug\net8.0\ActionForeach.runtimeconfig.json
+D:\CSharpCourse\ActionForeach\ActionForeach\bin\Debug\net8.0\ActionForeach.dll
+D:\CSharpCourse\ActionForeach\ActionForeach\bin\Debug\net8.0\ActionForeach.pdb
+D:\CSharpCourse\ActionForeach\ActionForeach\obj\Debug\net8.0\ActionForeach.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\ActionForeach\ActionForeach\obj\Debug\net8.0\ActionForeach.AssemblyInfoInputs.cache
+D:\CSharpCourse\ActionForeach\ActionForeach\obj\Debug\net8.0\ActionForeach.AssemblyInfo.cs
+D:\CSharpCourse\ActionForeach\ActionForeach\obj\Debug\net8.0\ActionForeach.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\ActionForeach\ActionForeach\obj\Debug\net8.0\ActionForeach.dll
+D:\CSharpCourse\ActionForeach\ActionForeach\obj\Debug\net8.0\refint\ActionForeach.dll
+D:\CSharpCourse\ActionForeach\ActionForeach\obj\Debug\net8.0\ActionForeach.pdb
+D:\CSharpCourse\ActionForeach\ActionForeach\obj\Debug\net8.0\ActionForeach.genruntimeconfig.cache
+D:\CSharpCourse\ActionForeach\ActionForeach\obj\Debug\net8.0\ref\ActionForeach.dll

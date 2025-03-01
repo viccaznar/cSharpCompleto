@@ -1,0 +1,14 @@
+D:\CSharpCourse\HashCompararIgualdade\HashCompararIgualdade\bin\Debug\net8.0\HashCompararIgualdade.exe
+D:\CSharpCourse\HashCompararIgualdade\HashCompararIgualdade\bin\Debug\net8.0\HashCompararIgualdade.deps.json
+D:\CSharpCourse\HashCompararIgualdade\HashCompararIgualdade\bin\Debug\net8.0\HashCompararIgualdade.runtimeconfig.json
+D:\CSharpCourse\HashCompararIgualdade\HashCompararIgualdade\bin\Debug\net8.0\HashCompararIgualdade.dll
+D:\CSharpCourse\HashCompararIgualdade\HashCompararIgualdade\bin\Debug\net8.0\HashCompararIgualdade.pdb
+D:\CSharpCourse\HashCompararIgualdade\HashCompararIgualdade\obj\Debug\net8.0\HashCompararIgualdade.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCourse\HashCompararIgualdade\HashCompararIgualdade\obj\Debug\net8.0\HashCompararIgualdade.AssemblyInfoInputs.cache
+D:\CSharpCourse\HashCompararIgualdade\HashCompararIgualdade\obj\Debug\net8.0\HashCompararIgualdade.AssemblyInfo.cs
+D:\CSharpCourse\HashCompararIgualdade\HashCompararIgualdade\obj\Debug\net8.0\HashCompararIgualdade.csproj.CoreCompileInputs.cache
+D:\CSharpCourse\HashCompararIgualdade\HashCompararIgualdade\obj\Debug\net8.0\HashCompararIgualdade.dll
+D:\CSharpCourse\HashCompararIgualdade\HashCompararIgualdade\obj\Debug\net8.0\refint\HashCompararIgualdade.dll
+D:\CSharpCourse\HashCompararIgualdade\HashCompararIgualdade\obj\Debug\net8.0\HashCompararIgualdade.pdb
+D:\CSharpCourse\HashCompararIgualdade\HashCompararIgualdade\obj\Debug\net8.0\HashCompararIgualdade.genruntimeconfig.cache
+D:\CSharpCourse\HashCompararIgualdade\HashCompararIgualdade\obj\Debug\net8.0\ref\HashCompararIgualdade.dll
